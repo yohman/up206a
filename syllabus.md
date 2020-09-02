@@ -1,50 +1,36 @@
 <!-- Copy and paste the converted output. -->
 
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.849 seconds.
 
 
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Wed Sep 02 2020 09:23:13 GMT-0700 (PDT)
-* Source doc: UP206A Intro to GIS Fall 2020 Syllabus
------>
-
-
-
-### UP206A: Introduction to GIS and Spatial Data Science
+# UP206A: Introduction to GIS and Spatial Data Science
 
 Fall 2020
 
 Mondays 2pm - 5pm
 
-**Instructor: **
+
+## Instructor: 
 
 Yoh Kawano (yohman@gmail.com)
 
-**Teaching Assistant:**
+
+## Teaching Assistants:
 
 Bo Liu (bliu17@g.ucla.edu)
 
 Christopher D. Giamarino (cgiamarino@g.ucla.edu)
 
-**Office Hours: **
+
+## Office Hours: 
 
 _Please email in advance for appointments._
 
 Yoh: Mondays 5PM - 6PM and by appointment
 
 Bo and Chris: TBD and by appointment
+
+
+## Course Description
 
 Welcome to the world of planning and spatial thinking. In recent years, our relationship with maps and map-making has changed dramatically. No longer are we limited to a mode of map-making that is dominated by industry giants like Google and ESRI. Instead, a suite of data-science tools have matured to a point where they can produce similar, if not, more powerful and creative ways that advance spatial exploration. 
 
@@ -55,7 +41,7 @@ The goal for this course is to expose you to the foundations of spatial data sci
 While there are no prerequisites for taking this course, people who are approaching programming for the first time will admittedly find the course to be intense and challenging.
 
 
-### Course materials
+## Course materials
 
 The course will almost entirely be conducted on Jupyter Notebooks. A JupyterHub, a web-based Jupyter Notebook environment, has been set up specifically for this class, and is available at the following URL:
 
@@ -66,7 +52,7 @@ The course will almost entirely be conducted on Jupyter Notebooks. A JupyterHub,
 Weekly course materials, including presentations, interactive notebooks (.ipnb), and data will be made available through a course github repository (TBD) that you will interact with through your JupyterHub account.
 
 
-### Assignments
+## Assignments
 
 All assignments, unless otherwise specified, must be posted on your individual GitHub accounts by midnight of the Sunday prior to our class on Monday. 
 
@@ -80,10 +66,10 @@ TBD
 *   Finals
 
 
-### Schedule
+## Schedule
 
 
-#### Week 1 (10/5): Introduction to spatial data science
+### Week 1 (10/5): Introduction to spatial data science
 
 
 
@@ -103,7 +89,7 @@ TBD
     *   
 
 
-#### Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition
+### Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition
 
 
 
@@ -123,7 +109,7 @@ TBD
         *   Data sources
 
 
-#### Week 3: Data Exploration
+### Week 3: Data Exploration
 
 
 
@@ -141,7 +127,7 @@ TBD
     *   Provide a data plan for your final project idea
 
 
-#### Week 4: Data analysis
+### Week 4: Data analysis
 
 
 
@@ -157,7 +143,7 @@ TBD
     *   Request a census api key
 
 
-#### Week 5 (11/2): Understanding communities: Census data profiles
+### Week 5 (11/2): Understanding communities: Census data profiles
 
 
 
@@ -169,7 +155,7 @@ TBD
     *   Analyze data at the county or census tract level, and build a community profile
 
 
-#### Week 6 (11/9): Data visualization: Open Street Maps
+### Week 6 (11/9): Data visualization: Open Street Maps
 
 
 
@@ -183,7 +169,7 @@ TBD
     *   Mid-term prep!
 
 
-#### Week 7 (11/16): Geo-processing with geopandas
+### Week 7 (11/16): Geo-processing with geopandas
 
 
 
@@ -196,7 +182,7 @@ TBD
     *   Use ArcGIS Online
 
 
-#### Week 8(11/23): Advanced methods in spatial analysis
+### Week 8(11/23): Advanced methods in spatial analysis
 
 
 
@@ -207,7 +193,7 @@ TBD
     *   Use ArcPro
 
 
-#### Week 9: Spatial Data Science: R to the “r”escue
+### Week 9: Spatial Data Science: R to the “r”escue
 
 
 
@@ -217,12 +203,4 @@ TBD
     *   R Studio goes spatial
 
 
-#### Week 10: Final Project Preparation
-
-
-#### 
-
-
-
-*   Understanding cities through new data sources and data analytics
-*   
+### Week 10: Final Project Preparation
