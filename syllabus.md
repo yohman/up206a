@@ -1,9 +1,9 @@
-<!-- Output copied to clipboard! -->
+<!-- Copy and paste the converted output. -->
 
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.136 seconds.
+Conversion time: 1.097 seconds.
 
 
 Using this Markdown file:
@@ -16,7 +16,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β29
-* Sat Sep 05 2020 22:56:17 GMT-0700 (PDT)
+* Tue Sep 08 2020 11:11:55 GMT-0700 (PDT)
 * Source doc: UP206A Intro to GIS Fall 2020 Syllabus
 ----->
 
@@ -148,7 +148,7 @@ If the above steps haven't solved your problem, send an email (or attend office 
 
 *   If you do not have a GitHub account, create one for the class
     *   [https://github.com/](https://github.com/)
-*   Pre-class survey
+*   Fill out the [pre-class survey](https://forms.gle/KLXYXiaHef1ABNcx8)
 
 
 ### Week 1 (10/5): Introduction to spatial data science
@@ -158,6 +158,7 @@ If the above steps haven't solved your problem, send an email (or attend office 
 *   Lecture
     *   Overview of the course
     *   Expectations
+    *   Where did ArcMap go?
     *   What is Data Science?
     *   How is it relevant to planning?
     *   Mid-term and final projects will be based on groups (pairings)
@@ -167,7 +168,7 @@ If the above steps haven't solved your problem, send an email (or attend office 
     *   Intro to Python
 *   Assignments
     *   Create a GitHub account, and create a project repo named “UP206A”
-    *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space
+    *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
     *   Search for and document up to three potential data sources for your own research inquiry; explain how it can be used to answer a potential research question, and how it can be visualized spatially
 
 
@@ -198,6 +199,7 @@ If the above steps haven't solved your problem, send an email (or attend office 
             *   A paragraph that explains an issue of interest
             *   A research question
             *   Data sources
+        *   Create a final project repo in one of your group member’s github account, then assign other group members as collaborators
     *   Individual assignment:
         *   Launch JupyterHub, import a dataset of your choice, and conduct data exploration, making sure to document your steps and your preliminary findings
         *   Add your first data exploration Jupyter Notebook to your GitHub repository
