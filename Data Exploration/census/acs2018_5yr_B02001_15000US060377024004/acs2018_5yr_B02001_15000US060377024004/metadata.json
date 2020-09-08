@@ -1,0 +1,56 @@
+{
+    "release": {
+        "id": "acs2018_5yr",
+        "name": "ACS 2018 5-year",
+        "years": "2014-2018"
+    },
+    "tables": {
+        "B02001": {
+            "columns": {
+                "B02001001": {
+                    "indent": 0,
+                    "name": "Total:"
+                },
+                "B02001002": {
+                    "indent": 1,
+                    "name": "White alone"
+                },
+                "B02001003": {
+                    "indent": 1,
+                    "name": "Black or African American alone"
+                },
+                "B02001004": {
+                    "indent": 1,
+                    "name": "American Indian and Alaska Native alone"
+                },
+                "B02001005": {
+                    "indent": 1,
+                    "name": "Asian alone"
+                },
+                "B02001006": {
+                    "indent": 1,
+                    "name": "Native Hawaiian and Other Pacific Islander alone"
+                },
+                "B02001007": {
+                    "indent": 1,
+                    "name": "Some other race alone"
+                },
+                "B02001008": {
+                    "indent": 1,
+                    "name": "Two or more races:"
+                },
+                "B02001009": {
+                    "indent": 2,
+                    "name": "Two races including Some other race"
+                },
+                "B02001010": {
+                    "indent": 2,
+                    "name": "Two races excluding Some other race, and three or more races"
+                }
+            },
+            "denominator_column_id": "B02001001",
+            "title": "Race",
+            "universe": "Total Population"
+        }
+    }
+}
