@@ -290,8 +290,6 @@ Weekly content is subject to change, and will be modified as needed based on cla
     *   Network analysis
 *   Hands on
     *   TBD
-*   Assignments
-    *   Use ArcPro
 
 
 ### Week 9: Spatial Data Science: R to the “r”escue
