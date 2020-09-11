@@ -56,7 +56,7 @@ Welcome to the world of planning and spatial thinking. In recent years, our rela
 
 Our understanding of social phenomena through spatial constructs in urban data allows us to address questions on social justice, the environment, transportation, community development and design, amongst many other themes, and how these factors may affect different population groups in different ways. This course prepares  you for challenges in urban data beyond off-the-shelf cartographic approaches. It looks at the various components of data’s journey—acquisition, exploration, modeling, and communication through visualization—and how it enables and advances your research from a data science perspective.
 
-The goal for this course is to expose you to the foundations of spatial data science. Where once there was a dearth of available digital information, we now live in a world of too much data. How can these data be transformed to human expressions and narratives that are utilized in planning? We begin with an introduction to various data science tools, and review the basics of programming with Python. Once a foundation of Python programming and data wrangling is achieved, spatial analysis through Python Libraries, and subsequently, through advanced geoprocessing using ESRI tools will be introduced. All lessons will be based on “real” data with analytical methods addressing relevant and contemporary urban problems. At the conclusion of this course, students will be able to critically describe, analyze, and visualize spatial data for planning practices and research.
+The goal for this course is to expose you to the foundations of spatial data science. Where once there was a dearth of available digital information, we now live in a world of too much data. How can these data be transformed to human expressions and narratives that are utilized in planning? We begin with an introduction to various data science tools, and review the basics of programming with Python. Once a foundation of Python programming and data wrangling is achieved, spatial analysis through Python Libraries, and subsequently, through advanced geoprocessing will be introduced. All lessons will be based on “real” data with analytical methods addressing relevant and contemporary urban problems. At the conclusion of this course, students will be able to critically describe, analyze, and visualize spatial data for planning practices and research.
 
 While there are no prerequisites for taking this course, people who are approaching programming for the first time will admittedly find the course to be intense and challenging.
 
@@ -140,7 +140,7 @@ If the above steps haven't solved your problem, send an email (or attend office 
 
 
 ## Weekly Schedule
-
+Weekly content is subject to change, and will be modified as needed based on class discussions, needs, and progress.
 
 ### Preparation
 
@@ -290,8 +290,6 @@ If the above steps haven't solved your problem, send an email (or attend office 
     *   Network analysis
 *   Hands on
     *   TBD
-*   Assignments
-    *   Use ArcPro
 
 
 ### Week 9: Spatial Data Science: R to the “r”escue
