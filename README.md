@@ -1,27 +1,3 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 1.097 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Tue Sep 08 2020 11:11:55 GMT-0700 (PDT)
-* Source doc: UP206A Intro to GIS Fall 2020 Syllabus
------>
-
-
-
 # UP206A: Introduction to GIS and Spatial Data Science
 
 Fall 2020
@@ -60,6 +36,16 @@ The goal for this course is to expose you to the foundations of spatial data sci
 
 While there are no prerequisites for taking this course, people who are approaching programming for the first time will admittedly find the course to be intense and challenging.
 
+## Learning Objectives for UP206A
+
+At the conclusion of this course, students will be able to critically describe, analyze, and visualize spatial data for planning practices and research.
+
+Specifically, students will learn to:
+
+- Demonstrate the value of data for planning purposes through discovery, exploration, and analysis
+- Critically evaluate data and create frameworks to prepare data for researchApply data science programming techniques to produce relevant visualizations that inform urban policy
+- Learn to visualize data spatially to communicate the importance of place-based informatics
+- Learn to produce publication-ready scholarly materials in the form of tables, charts, and maps
 
 ## Inspirations
 
