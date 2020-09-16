@@ -1,3 +1,4 @@
+# Table of Contents
 - [UP206A: Introduction to GIS and Spatial Data Science](#up206a--introduction-to-gis-and-spatial-data-science)
   * [Instructor:](#instructor-)
   * [Teaching Assistants:](#teaching-assistants-)
