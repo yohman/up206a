@@ -93,8 +93,6 @@ Second, I have taken the liberty (with permission) to borrow ideas and materials
 
 The course will almost entirely be conducted on Jupyter Notebooks. A [JupyterHub](https://jupyter.idre.ucla.edu), a web-based Jupyter Notebook environment, has been set up specifically for this class, and is available at the following [URL](https://jupyter.idre.ucla.edu). Note that you will need multi-factored authentication to login:
 
-
-
 *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
 Weekly course materials, including presentations, interactive notebooks (.ipynb), and data will be made available through a course github repository (TBD) that you will interact with through your JupyterHub account.
@@ -104,7 +102,6 @@ Weekly course materials, including presentations, interactive notebooks (.ipynb)
 
 All assignments, unless otherwise specified, must be posted on your individual GitHub accounts by midnight of the Sunday prior to our class on Monday. 
 
-
 - Participation, individual progress, coding and reading assignments 10%
 - Group assignments 40%
    - There will be five group assignments throughout the quarter. Each assignment will be worth 20% of the total group assignment grade.
@@ -112,7 +109,6 @@ All assignments, unless otherwise specified, must be posted on your individual G
    - The mid-term will be a presentation for your group project
 - Finals 25%
    - There will not be a final exam. Instead, the final will be in the form a final presentation for your group project.
-
 
 ## Remote zoom learning expectations
 
@@ -141,14 +137,11 @@ Parents deserve access to education. At all times, I strive to be inclusive to p
 - I ask that all students work with me to create a welcoming environment that is respectful of all forms of diversity, including diversity in parenting status.
 - I hope that you will feel comfortable disclosing your student-parent status to me. This is the first step in my being able to accommodate any special needs that arise. While I maintain the same high expectations for all student in my classes regardless of parenting status, I am happy to problem solve with you in a way that makes you feel supported as you strive for school-parenting balance.
 
-
 ## How to ask a technical question
 
 Given the nature of the course, you will have many, many questions along the way. However, we ask that you adhere to the following guidelines in order to make consultations as productive as possible. Students who do not follow these guidelines will be asked to reschedule.
 
 Before asking a question:
-
-
 
 1. Close all open programs, restart your computer, then try your task again
 2. Search google and stackoverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
@@ -157,16 +150,12 @@ Before asking a question:
 
 If the above steps haven't solved your problem, send an email (or attend office hours) and include the following information:
 
-
-
 1. A detailed description of what you're trying to do, why, and how
 2. A complete [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
 3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
 
 
 ## Readings and Resources
-
-
 
 *   Think Python 2nd Edition by Allen B. Downey
     *   [https://greenteapress.com/wp/think-python-2e/](https://greenteapress.com/wp/think-python-2e/)
@@ -179,16 +168,13 @@ Weekly content is subject to change, and will be modified as needed based on cla
 
 ### Preparation
 
-
-
+*   Fill out the [pre-class survey](https://forms.gle/KLXYXiaHef1ABNcx8)
 *   If you do not have a GitHub account, create one for the class
     *   [https://github.com/](https://github.com/)
-*   Fill out the [pre-class survey](https://forms.gle/KLXYXiaHef1ABNcx8)
-
+*   Make sure you can log into the class JupyterHub
+    *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
 ### Week 1 (10/5): Introduction to spatial data science
-
-
 
 *   Lecture
     *   Overview of the course
@@ -206,10 +192,7 @@ Weekly content is subject to change, and will be modified as needed based on cla
     *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
     *   Search for and document up to three potential data sources for your own research inquiry; explain how it can be used to answer a potential research question, and how it can be visualized spatially
 
-
 ### Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition
-
-
 
 *   Lecture
     *   The digital globe: where to get data, how to use it, what can it do for you?
@@ -239,10 +222,7 @@ Weekly content is subject to change, and will be modified as needed based on cla
         *   Launch JupyterHub, import a dataset of your choice, and conduct data exploration, making sure to document your steps and your preliminary findings
         *   Add your first data exploration Jupyter Notebook to your GitHub repository
 
-
 ### Week 3 (10/19): Understanding communities: Census data profiles
-
-
 
 *   Lecture
     *   Census Data
@@ -258,28 +238,26 @@ Weekly content is subject to change, and will be modified as needed based on cla
         *   Produce several charts, including a map, make sure to document each process
 
 
-### Week 4 (10/26): Open data
-
-
+### Week 4 (10/26): Open Street Maps
 
 *   Lecture 
+    *   Announcement: 4th Annual Battle of the Maps: A Humanitarian Mapathon
+    *   
+*   Assignments
+    *   Group Assignment #3
+        *   Create a Jupyter Notebook that takes in, queries, and explores a dataset acquired using a Socrata API
+
+
+### Week 5 (11/2): Open data and APIs
+*   Lecture
     *   Open data, API’s and why that matters
     *   Learning SQL and why it is relevant to understanding data filtering
-    *   4th Annual Battle of the Maps: A Humanitarian Mapathon
 *   Case Study: LA Open Data Portal
     *   [Example tutorial](https://ucladataguides.readthedocs.io/en/latest/working_with_data/data_portal.html)
     *   LA Times Data Desk
 *   Hands on
     *   SQL in Python
     *   Sodapy library to access socrata data
-*   Assignments
-    *   Group Assignment #3
-        *   Create a Jupyter Notebook that takes in, queries, and explores a dataset acquired using a Socrata API
-
-
-### Week 5 (11/2): Data visualization: Open Street Maps
-
-
 
 *   Mapping: OSM
 *   Overview of mid-term requirements next week
