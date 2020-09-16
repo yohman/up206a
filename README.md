@@ -249,10 +249,10 @@ visualizing complex street networks](https://www.researchgate.net/publication/30
 *   Hands on
     *   Creating neighborhood maps with Open Street Map
         *   Using the osmnx library
+        *   Import streets, buildings, and POIs
 *   Assignments
     *   Group Assignment #3
-        *   Create a Jupyter Notebook that takes in, queries, and explores a dataset acquired using a Socrata API
-
+    *   Participate in the Humanitarian Mapathon by contributing digitized buildings
 
 ### Week 5 (11/2): Open data and APIs
 *   Lecture
@@ -264,14 +264,8 @@ visualizing complex street networks](https://www.researchgate.net/publication/30
 *   Hands on
     *   SQL in Python
     *   Sodapy library to access socrata data
-
-*   Mapping: OSM
-*   Overview of mid-term requirements next week
-*   Hands on
-    *   What is OSM?
-    *   Open Street Map with osmnx
 *   Assignments
-    *   Choose a Python mapping library of your choice (folium, geopandas, Plotly Express) and provide three map-based visualizations
+    *   Create a Jupyter Notebook that takes in, queries, and explores a dataset acquired using a Socrata API
     *   Mid-term prep!
 
 ### Week 6 (11/9): Mid-terms
