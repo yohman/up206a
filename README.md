@@ -4,41 +4,6 @@ Fall 2020
 
 Mondays 2pm - 5pm
 
-## Table of Contents
-  * [Instructor:](#instructor-)
-  * [Teaching Assistants:](#teaching-assistants-)
-  * [Office Hours:](#office-hours-)
-  * [Course Description](#course-description)
-  * [Learning Objectives for UP206A](#learning-objectives-for-up206a)
-  * [Inspirations](#inspirations)
-  * [Course materials](#course-materials)
-  * [Assignments and Evaluation](#assignments-and-evaluation)
-  * [Remote zoom learning expectations](#remote-zoom-learning-expectations)
-    + [Recording of class sessions](#recording-of-class-sessions)
-    + [Sharing video](#sharing-video)
-    + [Parents](#parents)
-  * [How to ask a technical question](#how-to-ask-a-technical-question)
-  * [Readings and Resources](#readings-and-resources)
-  * [Weekly Schedule](#weekly-schedule)
-    + [Preparation](#preparation)
-    + [Week 1 (10/5): Introduction to spatial data science](#week-1--10-5---introduction-to-spatial-data-science)
-    + [Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition](#week-2--10-12---data-in-urban-studies--the-challenge-in-data-acquisition)
-    + [Week 3 (10/19): Understanding communities: Census data profiles](#week-3--10-19---understanding-communities--census-data-profiles)
-    + [Week 4 (10/26): Open data](#week-4--10-26---open-data)
-    + [Week 5 (11/2): Data visualization: Open Street Maps](#week-5--11-2---data-visualization--open-street-maps)
-    + [Week 6 (11/9): Mid-terms](#week-6--11-9---mid-terms)
-    + [Week 7 (11/16): Geo-processing with geopandas](#week-7--11-16---geo-processing-with-geopandas)
-    + [Week 8(11/23): Advanced methods in spatial analysis](#week-8-11-23---advanced-methods-in-spatial-analysis)
-    + [Week 9: Spatial Data Science: R to the “r”escue](#week-9--spatial-data-science--r-to-the--r-escue)
-    + [Week 10: Final Project Preparation](#week-10--final-project-preparation)
-  * [Resources:](#resources-)
-  * [Statement of Affirmation](#statement-of-affirmation)
-  * [Accommodations based on disability](#accommodations-based-on-disability)
-  * [Covid-19 information](#covid-19-information)
-
-
-
-
 ## Instructor: 
 
 Yoh Kawano (yohman@gmail.com)
