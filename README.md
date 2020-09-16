@@ -1,5 +1,10 @@
-# Table of Contents
-- [UP206A: Introduction to GIS and Spatial Data Science](#up206a--introduction-to-gis-and-spatial-data-science)
+# UP206A: Introduction to GIS and Spatial Data Science
+
+Fall 2020
+
+Mondays 2pm - 5pm
+
+## Table of Contents
   * [Instructor:](#instructor-)
   * [Teaching Assistants:](#teaching-assistants-)
   * [Office Hours:](#office-hours-)
@@ -32,12 +37,6 @@
   * [Covid-19 information](#covid-19-information)
 
 
-
-# UP206A: Introduction to GIS and Spatial Data Science
-
-Fall 2020
-
-Mondays 2pm - 5pm
 
 
 ## Instructor: 
