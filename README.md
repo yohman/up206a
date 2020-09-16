@@ -107,11 +107,11 @@ All assignments, unless otherwise specified, must be posted on your individual G
 
 *   Participation, individual progress, coding and reading assignments 10%
 *   Group assignments 40%
-+ There will be five group assignments throughout the quarter. Each assignment will be worth 20% of the total group assignment grade.
+   + There will be five group assignments throughout the quarter. Each assignment will be worth 20% of the total group assignment grade.
 *   Mid-term 25%
-+ The mid-term will be a presentation for your group project
+   + The mid-term will be a presentation for your group project
 *   Finals 25%
-+ There will not be a final exam. Instead, the final will be in the form a final presentation for your group project.
+   + There will not be a final exam. Instead, the final will be in the form a final presentation for your group project.
 
 
 ## Remote zoom learning expectations
