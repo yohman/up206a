@@ -82,16 +82,30 @@ TBD
 
 ## Remote zoom learning expectations
 
-Welcome to the new normal. It is expected that the 2020 Fall quarter will be conducted remotely and via zoom in its entirety. The good news is that this course—coding, data, maps!—is situated perfectly for remote learning. Nevertheless, there are some expectations and guidelines I would like to enforce in order to make this experience as fruitful and productive for all of us.
+Welcome to the new normal. It is expected that the 2020 Fall quarter will be conducted remotely and via zoom in its entirety. The good news is that this course—coding, data, maps!—is situated perfectly for remote learning. Nevertheless, there are some expectations and guidelines I would like to enforce in order to make this experience as fruitful and productive for all of us. First, make sure that your Internet connection and equipment are set up to use Zoom and able to share audio and video during class meetings. Let me know if there is a gap in your technology set-up as soon as possible, and we can see about finding solutions.
 
+### Recording of class sessions
 
+All synchronous classes will be recorded via Zoom so that students in this course (and only students in this course) can watch or re-watch past class sessions. Please note that breakout rooms will not be recorded. I will make the recordings available on CCLE as soon as possible after each class session (usually the day after the class meeting). Recordings will live in our CCLE website. 
 
-*   Lectures will be recorded and made available one day after instruction
-*   While lectures are recorded, you are expected to be in attendance during live sessions
-*   Unless prior reasoning is provided by email to the instructor, students are expected to turn on their video’s during zoom lectures and discussions
-*   Students and instructors must mute their mics unless they are speaking
-*   Virtual backgrounds are allowed, but keep them as distraction-free as possible
-*   Chatrooms will be open and monitored by the T.A.’s
+Please note that you are not allowed to record the class yourself or share the class recordings. This is to protect your FERPA rights and those of your fellow students.
+
+### Sharing video
+
+In this course, being able to see one another helps to facilitate a better learning environment and promote more engaging discussions. Therefore, our default will be to expect students to have their cameras on during lectures and discussions. However, I also completely understand there may be reasons students would not want to have their cameras on. If you have any concerns about sharing your video, please email me as soon as possible and we can discuss possible adjustments. 
+
+Note: You may use a background image in your video if you wish; just check in advance that this works with your device(s) and internet bandwidth.  Also, having a profile picture on your Zoom account helps humanize your presence in the course at times when you need to shut the camera off.
+
+### Parents
+
+Parents deserve access to education. At all times, I strive to be inclusive to parents, and now, in our virtual learning space, with many children learning from home or schools facing sudden closures, we can expect children to be present in class from time to time.
+
+- All breastfeeding babies are welcome in our synchronous sessions as often as is necessary to support the breastfeeding relationship. I'd never want students to feel like they have to choose between feeding their baby or continuing their education.
+- Children may be visible onscreen during class sessions, either in your lap or playing in the background. Alternatively, you may turn your camera off if more privacy is required.
+- Parents or caregivers who anticipate having a child(ren) with them during class sessi ons are encouraged to wear a headset to help minimize background noise. You may mute your microphone and communicate through the chat feature at any point necessary.
+- Stepping away momentarily for childcare reasons is completely understandable and expected. Simply mute and/or turn off your camera as necessary, and rejoin us when you are able.
+- I ask that all students work with me to create a welcoming environment that is respectful of all forms of diversity, including diversity in parenting status.
+- I hope that you will feel comfortable disclosing your student-parent status to me. This is the first step in my being able to accommodate any special needs that arise. While I maintain the same high expectations for all student in my classes regardless of parenting status, I am happy to problem solve with you in a way that makes you feel supported as you strive for school-parenting balance.
 
 
 ## How to ask a technical question
@@ -311,3 +325,19 @@ Weekly content is subject to change, and will be modified as needed based on cla
     *   University of Helsinki, Finland
 *   [Computing for the Social Sciences](https://cfss.uchicago.edu/notes/) (R focused)
     *   University of Chicago
+
+## Statement of Affirmation
+
+I intend to make this classroom a space that affirms all identities and perspectives, including your race, color, national origin, ethnic origin, ancestry, marital status, religion, age, sex, gender, gender expression, gender identity, transgender status, pregnancy, physical or mental disability, medical condition, genetic information (including family medical history), sexual orientation, political ideology and affiliations, citizenship, or service in the uniformed services. Regardless of background, all students have a right to an equitable education. Because of the multi-faceted and complex nature of our identities, it is imperative that we are committed to affirming one another’s perspectives as a community for all enrolled in this course. I encourage all members to embrace and learn from the diversity in this classroom, school, and university. I want to highlight that discrimination, harassment, or forms of hateful transgressions will not be tolerated in our learning environment. If you have any recommendations about how to make our environment more inclusive please feel free to let me know. 
+
+## Accommodations based on disability
+
+If you are already registered with the Center for Accessible Education (CAE), please request your Letter of Accommodation on the Student Portal. If you are seeking registration with the CAE, please submit your request for accommodations via the CAE website. Please note that the CAE does not send accommodations letters to instructors--you must request that I view the letter in the online Faculty Portal. Once you have requested your accommodations via the Student Portal, please notify me immediately so I can view your letter.
+
+Students with disabilities requiring academic accommodations should submit their request for accommodations as soon as possible, as it may take up to two weeks to review the request. For more information, please visit the CAE website (www.cae.ucla.edu), visit the CAE at A255 Murphy Hall, or contact by phone at (310) 825-1501.
+
+
+## Covid-19 information 
+The Luskin School has a Covid-19 FAQ resource page compiling information relevant to Covid-19 and its impacts.  The page is updated periodically.
+
+
