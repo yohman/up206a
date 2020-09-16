@@ -236,13 +236,19 @@ Weekly content is subject to change, and will be modified as needed based on cla
         *   Download census variables relevant to your research question
         *   Create a notebook and use pandas to explore and visualize the data
         *   Produce several charts, including a map, make sure to document each process
+    *   Read: [OSMnx: New methods for acquiring, constructing, analyzing, and
+visualizing complex street networks](https://www.researchgate.net/publication/309738462_OSMnx_New_Methods_for_Acquiring_Constructing_Analyzing_and_Visualizing_Complex_Street_Networks)
 
 
 ### Week 4 (10/26): Open Street Maps
 
 *   Lecture 
     *   Announcement: 4th Annual Battle of the Maps: A Humanitarian Mapathon
-    *   
+    *   What is OSM?
+    *   What can you do with OSMNX? [A conversation with Geoff Boeing, its creator](https://www.youtube.com/watch?v=Q0uxu25ddc4)
+*   Hands on
+    *   Creating neighborhood maps with Open Street Map
+        *   Using the osmnx library
 *   Assignments
     *   Group Assignment #3
         *   Create a Jupyter Notebook that takes in, queries, and explores a dataset acquired using a Socrata API
@@ -268,10 +274,7 @@ Weekly content is subject to change, and will be modified as needed based on cla
     *   Choose a Python mapping library of your choice (folium, geopandas, Plotly Express) and provide three map-based visualizations
     *   Mid-term prep!
 
-
 ### Week 6 (11/9): Mid-terms
-
-
 
 *   Midterm lightning presentations
 *   Hands on
@@ -279,10 +282,7 @@ Weekly content is subject to change, and will be modified as needed based on cla
         *   How to load different data types
         *   Managing projections
 
-
 ### Week 7 (11/16): Geo-processing with geopandas
-
-
 
 *   Introducing spatial analysis with geopandas
 *   Hands on
@@ -294,38 +294,27 @@ Weekly content is subject to change, and will be modified as needed based on cla
         *   Join two datasets, visualize the results
         *   Create 3 or more maps
 
-
 ### Week 8(11/23): Advanced methods in spatial analysis
-
-
 
 *   Content TBD and subject to student demand. Proposed topics:
     *   Network analysis
 *   Hands on
     *   TBD
 
-
 ### Week 9: Spatial Data Science: R to the “r”escue
-
-
 
 *   Alternatives to Spatial Data Science: Using R
 *   Special topics: Spatial narratives through social media
 *   Hands on
     *   R Studio goes spatial
 
-
 ### Week 10: Final Project Preparation
 
-
-
+*   Review of libraries, techniques, and outcomes covered in the course
 *   Publishing your work
 *   Final project guidelines review
 
-
 ## Resources:
-
-
 
 *   [gboeing/ppd534: USC PPD534: Data, Evidence, and Communication for the Public Good](https://github.com/gboeing/ppd534)
     *   University of Southern California
