@@ -160,11 +160,11 @@ Weekly content is subject to change, and will be modified as needed based on cla
 
 ### [Week 7 (11/16): Geo-processing with geopandas](https://github.com/yohman/up206a/tree/master/Weeks/Week%207)
 
-### [Week 8(11/23): Advanced methods in spatial analysis](https://github.com/yohman/up206a/tree/master/Weeks/Week%208)
+### [Week 8 (11/23): Advanced methods in spatial analysis](https://github.com/yohman/up206a/tree/master/Weeks/Week%208)
 
-### [Week 9: Spatial Data Science: R to the “r”escue](https://github.com/yohman/up206a/tree/master/Weeks/Week%209)
+### [Week 9 (11/30): Spatial Data Science: R to the “r”escue](https://github.com/yohman/up206a/tree/master/Weeks/Week%209)
 
-### [Week 10: Final Project Preparation](ttps://github.com/yohman/up206a/tree/master/Weeks/Week%2010)
+### [Week 10 (12/7): Final Project Preparation](https://github.com/yohman/up206a/tree/master/Weeks/Week%2010)
 
 ## Resources:
 
