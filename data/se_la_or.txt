@@ -1,0 +1,286 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R12616077
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2018 (5-Year Estimates)
+Dataset:          Social Explorer Tables: ACS 2018 (5-Year Estimates)
+Tables:
+
+      1. Total Population
+         Universe:  Total Population
+         Name:      A00001
+         Variables:
+            A00001_001:   Total Population
+
+
+      2. Race
+         Universe:  Total Population
+         Name:      A03001
+         Variables:
+            A03001_001:   Total Population:
+            A03001_002:      White Alone
+            A03001_003:      Black or African American Alone
+            A03001_004:      American Indian and Alaska Native Alone
+            A03001_005:      Asian Alone
+            A03001_006:      Native Hawaiian and Other Pacific Islander Alone
+            A03001_007:      Some Other Race Alone
+            A03001_008:      Two or More Races
+
+
+      3. Hispanic or Latino by Race
+         Universe:  Total Population
+         Name:      A04001
+         Variables:
+            A04001_001:   Total Population
+            A04001_002:      Not Hispanic or Latino:
+            A04001_003:         White Alone
+            A04001_004:         Black or African American Alone
+            A04001_005:         American Indian and Alaska Native Alone
+            A04001_006:         Asian Alone
+            A04001_007:         Native Hawaiian and Other Pacific Islander Alone
+            A04001_008:         Some Other Race Alone
+            A04001_009:         Two or More Races
+            A04001_010:      Hispanic or Latino:
+            A04001_011:         White Alone
+            A04001_012:         Black or African American Alone
+            A04001_013:         American Indian and Alaska Native Alone
+            A04001_014:         Asian Alone
+            A04001_015:         Native Hawaiian and Other Pacific Islander Alone
+            A04001_016:         Some Other Race Alone
+            A04001_017:         Two or More Races
+
+
+      4. Educational Attainment for Population 25 Years and Over
+         Universe:  Population 25 Years and Over
+         Name:      A12001
+         Variables:
+            A12001_001:   Population 25 Years and Over:
+            A12001_002:      Less than High School
+            A12001_003:      High School Graduate (Includes Equivalency)
+            A12001_004:      Some College
+            A12001_005:      Bachelor's Degree
+            A12001_006:      Master's Degree
+            A12001_007:      Professional School Degree
+            A12001_008:      Doctorate Degree
+
+
+      5. Median Household Income (In <DollarYear> Inflation Adjusted Dollars)
+         Universe:  Households
+         Name:      A14006
+         Variables:
+            A14006_001:   Median Household Income (In 2018 Inflation Adjusted Dollars)
+
+
+      6. Tenure
+         Universe:  Occupied Housing Units
+         Name:      A10060
+         Variables:
+            A10060_001:   Occupied Housing Units:
+            A10060_002:      Owner Occupied
+            A10060_003:      Renter Occupied
+
+
+      7. Travel Time to Work for Workers 16 Years and Over
+         Universe:  Workers 16 Years and Over
+         Name:      A09001
+         Variables:
+            A09001_001:   Workers 16 Years and Over:
+            A09001_002:      Did Not Work At Home:
+            A09001_003:         Less than 10 Minutes
+            A09001_004:         10 to 19 Minutes
+            A09001_005:         20 to 29 Minutes
+            A09001_006:         30 to 39 Minutes
+            A09001_007:         40 to 59 Minutes
+            A09001_008:         60 to 89 Minutes
+            A09001_009:         90 or More Minutes
+            A09001_010:      Worked At Home
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      GEOID:          Geographic Identifier
+      NAME:           Name of Area
+      QName:          Qualifying Name
+      STUSAB:         State/U.S.-Abbreviation (USPS)
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      FILEID:         File Identification
+      LOGRECNO:       Logical Record Number
+      US:             US
+      REGION:         Region
+      DIVISION:       Division
+      STATECE:        State (Census Code)
+      STATE:          State (FIPS)
+      COUNTY:         County
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      PLACESE:        Place (State FIPS + Place FIPS)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/Alaska Native Area/Hawaiian Home Land (Census)
+      AIANHHFP:       American Indian Area/Alaska Native Area/Hawaiian Home Land (FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITSCE:         American Indian Tribal Subdivision (Census)
+      AITS:           American Indian Tribal Subdivision (FIPS)
+      ANRC:           Alaska Native Regional Corporation (FIPS)
+      CBSA:           Metropolitan and Micropolitan Statistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/Micropolitan Indicator Flag
+      NECTA:          New England City and Town Combined Statistical Area
+      CNECTA:         New England City and Town Area
+      NECTADIV:       New England City and Town Area Division
+      UA:             Urban Area
+      UACP:           Urban Area Central Place
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      VTD:            Voting District
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      ZCTA5:          ZIP Code Tabulation Area (5-digit)
+      SUBMCD:         Subbarrio (FIPS)
+      SDELM:          School District (Elementary)
+      SDSEC:          School District (Secondary)
+      SDUNI:          School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      TAZ:            Traffic Analysis Zone
+      UGA:            Urban Growth Area
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      PUMA5:          Public Use Microdata Area - 5% File
+      PUMA1:          Public Use Microdata Area - 1% File
+      A00001_001:     Total Population
+      A03001_001:     Total Population:
+      A03001_002:     Total Population: White Alone
+      A03001_003:     Total Population: Black or African American Alone
+      A03001_004:     Total Population: American Indian and Alaska Native Alone
+      A03001_005:     Total Population: Asian Alone
+      A03001_006:     Total Population: Native Hawaiian and Other Pacific Islander Alone
+      A03001_007:     Total Population: Some Other Race Alone
+      A03001_008:     Total Population: Two or More Races
+      PCT_A03001_002: % Total Population: White Alone
+      PCT_A03001_003: % Total Population: Black or African American Alone
+      PCT_A03001_004: % Total Population: American Indian and Alaska Native Alone
+      PCT_A03001_005: % Total Population: Asian Alone
+      PCT_A03001_006: % Total Population: Native Hawaiian and Other Pacific Islander Alone
+      PCT_A03001_007: % Total Population: Some Other Race Alone
+      PCT_A03001_008: % Total Population: Two or More Races
+      A04001_001:     Total Population
+      A04001_002:     Total Population: Not Hispanic or Latino
+      A04001_003:     Total Population: Not Hispanic or Latino: White Alone
+      A04001_004:     Total Population: Not Hispanic or Latino: Black or African American Alone
+      A04001_005:     Total Population: Not Hispanic or Latino: American Indian and Alaska Native Alone
+      A04001_006:     Total Population: Not Hispanic or Latino: Asian Alone
+      A04001_007:     Total Population: Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+      A04001_008:     Total Population: Not Hispanic or Latino: Some Other Race Alone
+      A04001_009:     Total Population: Not Hispanic or Latino: Two or More Races
+      A04001_010:     Total Population: Hispanic or Latino
+      A04001_011:     Total Population: Hispanic or Latino: White Alone
+      A04001_012:     Total Population: Hispanic or Latino: Black or African American Alone
+      A04001_013:     Total Population: Hispanic or Latino: American Indian and Alaska Native Alone
+      A04001_014:     Total Population: Hispanic or Latino: Asian Alone
+      A04001_015:     Total Population: Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+      A04001_016:     Total Population: Hispanic or Latino: Some Other Race Alone
+      A04001_017:     Total Population: Hispanic or Latino: Two or More Races
+      PCT_A04001_002: % Total Population: Not Hispanic or Latino
+      PCT_A04001_003: % Total Population: Not Hispanic or Latino: White Alone
+      PCT_A04001_004: % Total Population: Not Hispanic or Latino: Black or African American Alone
+      PCT_A04001_005: % Total Population: Not Hispanic or Latino: American Indian and Alaska Native Alone
+      PCT_A04001_006: % Total Population: Not Hispanic or Latino: Asian Alone
+      PCT_A04001_007: % Total Population: Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+      PCT_A04001_008: % Total Population: Not Hispanic or Latino: Some Other Race Alone
+      PCT_A04001_009: % Total Population: Not Hispanic or Latino: Two or More Races
+      PCT_A04001_010: % Total Population: Hispanic or Latino
+      PCT_A04001_011: % Total Population: Hispanic or Latino: White Alone
+      PCT_A04001_012: % Total Population: Hispanic or Latino: Black or African American Alone
+      PCT_A04001_013: % Total Population: Hispanic or Latino: American Indian and Alaska Native Alone
+      PCT_A04001_014: % Total Population: Hispanic or Latino: Asian Alone
+      PCT_A04001_015: % Total Population: Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+      PCT_A04001_016: % Total Population: Hispanic or Latino: Some Other Race Alone
+      PCT_A04001_017: % Total Population: Hispanic or Latino: Two or More Races
+      A12001_001:     Population 25 Years and Over:
+      A12001_002:     Population 25 Years and Over: Less than High School
+      A12001_003:     Population 25 Years and Over: High School Graduate (Includes Equivalency)
+      A12001_004:     Population 25 Years and Over: Some College
+      A12001_005:     Population 25 Years and Over: Bachelor's Degree
+      A12001_006:     Population 25 Years and Over: Master's Degree
+      A12001_007:     Population 25 Years and Over: Professional School Degree
+      A12001_008:     Population 25 Years and Over: Doctorate Degree
+      PCT_A12001_002: % Population 25 Years and Over: Less than High School
+      PCT_A12001_003: % Population 25 Years and Over: High School Graduate (Includes Equivalency)
+      PCT_A12001_004: % Population 25 Years and Over: Some College
+      PCT_A12001_005: % Population 25 Years and Over: Bachelor's Degree
+      PCT_A12001_006: % Population 25 Years and Over: Master's Degree
+      PCT_A12001_007: % Population 25 Years and Over: Professional School Degree
+      PCT_A12001_008: % Population 25 Years and Over: Doctorate Degree
+      A14006_001:     Median Household Income (In 2018 Inflation Adjusted Dollars)
+      A10060_001:     Occupied Housing Units:
+      A10060_002:     Occupied Housing Units: Owner Occupied
+      A10060_003:     Occupied Housing Units: Renter Occupied
+      PCT_A10060_002: % Occupied Housing Units: Owner Occupied
+      PCT_A10060_003: % Occupied Housing Units: Renter Occupied
+      A09001_001:     Workers 16 Years and Over:
+      A09001_002:     Workers 16 Years and Over: Did Not Work At Home
+      A09001_003:     Workers 16 Years and Over: Did Not Work At Home: Less than 10 Minutes
+      A09001_004:     Workers 16 Years and Over: Did Not Work At Home: 10 to 19 Minutes
+      A09001_005:     Workers 16 Years and Over: Did Not Work At Home: 20 to 29 Minutes
+      A09001_006:     Workers 16 Years and Over: Did Not Work At Home: 30 to 39 Minutes
+      A09001_007:     Workers 16 Years and Over: Did Not Work At Home: 40 to 59 Minutes
+      A09001_008:     Workers 16 Years and Over: Did Not Work At Home: 60 to 89 Minutes
+      A09001_009:     Workers 16 Years and Over: Did Not Work At Home: 90 or More Minutes
+      A09001_010:     Workers 16 Years and Over: Worked At Home
+      PCT_A09001_002: % Workers 16 Years and Over: Did Not Work At Home
+      PCT_A09001_003: % Workers 16 Years and Over: Did Not Work At Home: Less than 10 Minutes
+      PCT_A09001_004: % Workers 16 Years and Over: Did Not Work At Home: 10 to 19 Minutes
+      PCT_A09001_005: % Workers 16 Years and Over: Did Not Work At Home: 20 to 29 Minutes
+      PCT_A09001_006: % Workers 16 Years and Over: Did Not Work At Home: 30 to 39 Minutes
+      PCT_A09001_007: % Workers 16 Years and Over: Did Not Work At Home: 40 to 59 Minutes
+      PCT_A09001_008: % Workers 16 Years and Over: Did Not Work At Home: 60 to 89 Minutes
+      PCT_A09001_009: % Workers 16 Years and Over: Did Not Work At Home: 90 or More Minutes
+      PCT_A09001_010: % Workers 16 Years and Over: Worked At Home
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2020
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R12616077
+
+If you have any questions contact info@socialexplorer.com
