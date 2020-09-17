@@ -69,8 +69,8 @@ All assignments, unless otherwise specified, must be posted on your individual G
 
 - Participation, individual progress, coding and reading assignments 10%
 - Group assignments 40%
-   - There will be five group assignments throughout the quarter. Each assignment will be worth 20% of the total group assignment grade.
-- Mid-term 25%
+   - There will be four group assignments throughout the quarter. Each assignment will be worth 25% of the total group assignment grade.
+- Mid-term 20%
    - The mid-term will require two deliverables:
       - a presentation for your group project
       - a cleaned up Jupyter Notebook that documents the following:
@@ -79,7 +79,7 @@ All assignments, unless otherwise specified, must be posted on your individual G
          - data exploration
          - data analysis
          - data visualization 
-- Final report 25%
+- Final report 30%
    - There will not be a final exam. Instead, the final will be in the form a final report and presentation for your group project.
 
 ## Remote zoom learning expectations
