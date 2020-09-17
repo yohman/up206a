@@ -156,45 +156,15 @@ Weekly content is subject to change, and will be modified as needed based on cla
 
 ### [Week 5 (11/2): Open data and APIs](https://github.com/yohman/up206a/tree/master/Weeks/Week%205)
 
-### Week 6 (11/9): Mid-terms
+### [Week 6 (11/9): Mid-terms](https://github.com/yohman/up206a/tree/master/Weeks/Week%206)
 
-*   Midterm lightning presentations
-*   Hands on
-    *   Introducing geopandas
-        *   How to load different data types
-        *   Managing projections
+### [Week 7 (11/16): Geo-processing with geopandas](https://github.com/yohman/up206a/tree/master/Weeks/Week%207)
 
-### Week 7 (11/16): Geo-processing with geopandas
+### [Week 8(11/23): Advanced methods in spatial analysis](https://github.com/yohman/up206a/tree/master/Weeks/Week%208)
 
-*   Introducing spatial analysis with geopandas
-*   Hands on
-    *   Joining data
-    *   Spatial analysis with geopandas
-*   Assignments
-    *   Group Assignment #4
-        *   Create a new jupyter notebook, and use geopandas to load your past project data or newly acquired data
-        *   Join two datasets, visualize the results
-        *   Create 3 or more maps
+### [Week 9: Spatial Data Science: R to the “r”escue](https://github.com/yohman/up206a/tree/master/Weeks/Week%209)
 
-### Week 8(11/23): Advanced methods in spatial analysis
-
-*   Content TBD and subject to student demand. Proposed topics:
-    *   Network analysis
-*   Hands on
-    *   TBD
-
-### Week 9: Spatial Data Science: R to the “r”escue
-
-*   Alternatives to Spatial Data Science: Using R
-*   Special topics: Spatial narratives through social media
-*   Hands on
-    *   R Studio goes spatial
-
-### Week 10: Final Project Preparation
-
-*   Review of libraries, techniques, and outcomes covered in the course
-*   Publishing your work
-*   Final project guidelines review
+### [Week 10: Final Project Preparation](ttps://github.com/yohman/up206a/tree/master/Weeks/Week%2010)
 
 ## Resources:
 
