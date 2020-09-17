@@ -49,7 +49,7 @@ Specifically, students will learn to:
 
 ## Inspirations
 
-I would be remiss if I do not mention various inspirations that have led to the creation of this course. First and foremost, the late and great [Leo Estrada](https://luskin.ucla.edu/in-memoriam-leo-estrada-urban-planning-scholar-and-champion-of-diversity), my mentor and confidant over the years, who taught GIS at our department for many decades. Leo and I spoke extensively about modifying this course to a more “modern” approach, and I am delighted and honored to uphold his legacy moving forward.
+I would be remiss if I do not mention various inspirations that have led to the creation of this course. First and foremost, the late and great [Leo Estrada](https://luskin.ucla.edu/in-memoriam-leo-estrada-urban-planning-scholar-and-champion-of-diversity), my mentor and confidant over the years (sorry, decades!), who taught GIS at our department for many decades. Leo and I spoke extensively about modifying this course to a more “modern” approach, and I am delighted and honored to uphold his legacy moving forward.
 
 Second, I have taken the liberty (with permission) to borrow ideas and materials from other courses. I specifically took inspiration from [Paul Waddell](https://ced.berkeley.edu/ced/faculty-staff/paul-waddell)’s “[Urban Informatics and Visualization](https://github.com/waddell/CP255)” course at UC Berkeley, and [Geoff Boeing](https://geoffboeing.com/about/)’s “[Data, Evidence, and Communication for the Public Good](https://github.com/gboeing/ppd534)” at the Department of Urban Planning and Spatial Analysis at USC’s Sol Price School of Public Policy.
 
