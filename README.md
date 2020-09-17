@@ -150,51 +150,11 @@ Weekly content is subject to change, and will be modified as needed based on cla
 
 ### [Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition](https://github.com/yohman/up206a/tree/master/Weeks/Week%202)
 
-### Week 3 (10/19): Understanding communities: Census data profiles
+### [Week 3 (10/19): Understanding communities: Census data profiles](https://github.com/yohman/up206a/tree/master/Weeks/Week%203)
 
-*   Lecture
-    *   Census Data
-    *   Python for urban data analysis
-*   Hands on
-    *   Census data exploration in python using pandas
-    *   Plotting with matplotlib
-    *   Quick interactive mapping with Folium
-*   Assignments
-    *   Group Assignment #2
-        *   Download census variables relevant to your research question
-        *   Create a notebook and use pandas to explore and visualize the data
-        *   Produce several charts, including a map, make sure to document each process
-    *   Read: [OSMnx: New methods for acquiring, constructing, analyzing, and
-visualizing complex street networks](https://www.researchgate.net/publication/309738462_OSMnx_New_Methods_for_Acquiring_Constructing_Analyzing_and_Visualizing_Complex_Street_Networks)
+### [Week 4 (10/26): Open Street Maps](https://github.com/yohman/up206a/tree/master/Weeks/Week%204)
 
-
-### Week 4 (10/26): Open Street Maps
-
-*   Lecture 
-    *   Announcement: 4th Annual Battle of the Maps: A Humanitarian Mapathon
-    *   What is OSM?
-    *   What can you do with OSMNX? [A conversation with Geoff Boeing, its creator](https://www.youtube.com/watch?v=Q0uxu25ddc4)
-*   Hands on
-    *   Creating neighborhood maps with Open Street Map
-        *   Using the osmnx library
-        *   Import streets, buildings, and POIs
-*   Assignments
-    *   Group Assignment #3
-    *   Participate in the Humanitarian Mapathon by contributing digitized buildings
-
-### Week 5 (11/2): Open data and APIs
-*   Lecture
-    *   Open data, API’s and why that matters
-    *   Learning SQL and why it is relevant to understanding data filtering
-*   Case Study: LA Open Data Portal
-    *   [Example tutorial](https://ucladataguides.readthedocs.io/en/latest/working_with_data/data_portal.html)
-    *   LA Times Data Desk
-*   Hands on
-    *   SQL in Python
-    *   Sodapy library to access socrata data
-*   Assignments
-    *   Create a Jupyter Notebook that takes in, queries, and explores a dataset acquired using a Socrata API
-    *   Mid-term prep!
+### [Week 5 (11/2): Open data and APIs](https://github.com/yohman/up206a/tree/master/Weeks/Week%205)
 
 ### Week 6 (11/9): Mid-terms
 
