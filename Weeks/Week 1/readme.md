@@ -14,8 +14,11 @@
 *   Introducing GitHub
 *   Introducing JupyterHub
     * log into our class JupyterHub
-    * when you are in the classic notebook interface, click New, Terminal
+    * when you are in the classic notebook interface, click New, Terminal. This should open a new tab with a terminal window.
     * clone the class repo by typing `git clone https://github.com/yohman/up206a.git`
+    * go back to the main notebook tab. You should see a new folder `up206a`
+    * navigate to Weeks, Week 1, and open the first Jupyter Notebook file (.ipynb)
+    
 *   Intro to Python
 
 ## Individual Assignments
