@@ -13,6 +13,9 @@
 ## [Hands on](https://github.com/yohman/up206a/tree/master/Weeks/Week%201)
 *   Introducing GitHub
 *   Introducing JupyterHub
+   * log into our class JupyterHub
+   * when you are in the classic notebook interface, click New, Terminal
+   * clone the class repo by typing `git clone https://github.com/yohman/up206a.git`
 *   Intro to Python
 
 ## Individual Assignments
