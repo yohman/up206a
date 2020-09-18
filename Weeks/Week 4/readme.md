@@ -3,6 +3,7 @@
 
 ## Lecture 
 - Announcement: 4th Annual Battle of the Maps: A Humanitarian Mapathon
+- Covid Data and Maps by the LA Times
 - What is OSM?
 - What can you do with OSMNX? [A conversation with Geoff Boeing, its creator](https://www.youtube.com/watch?v=Q0uxu25ddc4)
 ## Hands on
