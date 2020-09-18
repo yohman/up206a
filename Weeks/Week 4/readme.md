@@ -10,5 +10,7 @@
     - Using the osmnx library
     - Import streets, buildings, and POIs
 ## Assignments
-- Group Assignment #3
-- Participate in the Humanitarian Mapathon by contributing digitized buildings
+### Participate in the Humanitarian Mapathon by contributing digitized buildings
+
+### Reading:
+[Open Data Barometer](https://opendatabarometer.org/4thedition/report/)
