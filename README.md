@@ -65,22 +65,13 @@ Weekly course materials, including presentations, interactive notebooks (.ipynb)
 
 ## Assignments and Evaluation
 
-All assignments, unless otherwise specified, must be posted on your individual GitHub accounts by midnight of the Sunday prior to our class on Monday. 
+All assignments, unless otherwise specified, must be posted on your individual GitHub accounts or on CCLE by midnight of the Sunday prior to our class on Monday. Assignments are posted in each week's page, so make sure to read them carefully. 
 
 - Participation, individual progress, coding and reading assignments 10%
 - Group assignments 40%
    - There will be four group assignments throughout the quarter. Each assignment will be worth 25% of the total group assignment grade.
 - Mid-term 20%
-   - The mid-term will require two deliverables:
-      - a presentation for your group project
-      - a cleaned up Jupyter Notebook that documents the following:
-         - research question
-         - data sources
-         - data exploration
-         - data analysis
-         - data visualization 
 - Final report 30%
-   - There will not be a final exam. Instead, the final will be in the form a final report and presentation for your group project.
 
 ## Remote zoom learning expectations
 
