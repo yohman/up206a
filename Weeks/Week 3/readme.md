@@ -19,7 +19,7 @@ For this group assignment, you will create and submit a Jupyter Notebook. The fi
 1.   Produce several charts, including one or more maps
 1.   Make sure to document each procedure with markdown cells with relevant headers
 1.   Run the cells in the notebook, and make sure the notebook "reads" from top to bottom, telling a story
-1.   At the end of the notebook, include a markdown cell that identifies each member of the group and describes tehir contribution to this assignment (one sentence each)
+1.   At the end of the notebook, include a markdown cell that identifies each member of the group and describes their contribution to this assignment (one sentence each)
 1.   Upload the Jupyter Notebook to your group repo
 
 ### Reading Assignment
