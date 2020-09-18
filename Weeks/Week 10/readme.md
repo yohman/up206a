@@ -1,4 +1,4 @@
-# Week 10: Final Project Preparation
+# Week 10: Course Review and Final Project Preparation
 
 ## Lecture
 *   Big review
