@@ -10,7 +10,7 @@
 *   Quick interactive mapping with Folium
 ## Assignments
 
-### Group Assignment #2
+### Group Assignment #2: Census Data Exploration
 
 For this group assignment, you will create and submit a Jupyter Notebook. The first cell of the notebook should be a markdown cell that includes a title and description of the assignment.
 
