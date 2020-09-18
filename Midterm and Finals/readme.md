@@ -3,11 +3,11 @@ The midterm and final will both be group projects. They are based on the same pr
 
 ## Midterms
 There are three deliverables for the mid-term project.
-1. Update the project proposal and resubmit. Follow the same guidelines as posted in your Group Assignment #1.
-1. Create a Jupyter Notebook that does the following:
-      - states the research question
-      - identifies data sources
-      - data exploration
+1. Update your project proposal and resubmit. Follow the same guidelines as posted in your Group Assignment #1.
+1. Create a new Jupyter Notebook. Make sure to mix in markdown cells and code cells so that the notebook tells a cohesive narrative. Your notebook should:
+      - state the research question
+      - identify data sources
+      - conduct data exploration
       - data analysis
          - produce at least three charts
          - one chart can be a "bad" chart, with a second chart that improves upon it
