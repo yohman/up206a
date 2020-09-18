@@ -20,9 +20,13 @@
 *   Python Boot Camp
 *   Intro to the Pandas Library
 
-## Assignments
+## Assignments (due 23:59 Sunday, the day before class)
 ### Group Assignment #1
-*   Write one paragraph for your midterm and final project proposal. Include:
+The course will largely be guided by your final project, which will be conducted in pairs. Meet with your partner, discuss and identify a research question, and begin the collection of data, its analysis, and determine how it may answer your question. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.
+
+Next, identify and download at least two datasets that you believe begins to guide your research. Make sure that at least one of them has a spatial component. For example, if one of your dataset comes from the census, identify which survey you will use (e.g. Decennial or American Community Survey), and which variables you will select. Note that we will be covering census data in detail in Week 3. Your second dataset should come from a separate source. For example, you may want to do a crime analysis and obtain data from the LA Data Portal.
+
+*   Write a 1-2 page paper, which will be your group's project proposal. Make sure to include the following:
    *   A paragraph that explains an issue of interest
    *   A research question
    *   Data sources
