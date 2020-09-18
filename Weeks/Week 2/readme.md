@@ -43,3 +43,6 @@ Next, create a group repo.
 ### Individual assignment:
 *   Launch JupyterHub, import a dataset of your choice, and conduct data exploration, making sure to document your steps and your preliminary findings
 *   Add your first data exploration Jupyter Notebook to your GitHub repository
+
+### Reading assignment:
+*   ["Counting California: Challenges for the 2020 Census" by The Public Policy Institute of California](https://www.ppic.org/publication/counting-california-challenges-for-the-2020-census/)
