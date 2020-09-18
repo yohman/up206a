@@ -10,7 +10,14 @@
     - Using the osmnx library
     - Import streets, buildings, and POIs
 ## Assignments
-### Participate in the Humanitarian Mapathon by contributing digitized buildings
+
+### No Group Assignment
+* Instead, participate in the Humanitarian Mapathon by contributing digitized buildings
+
+### Individual Assignment
+* Create a Jupyter Notebook that uses the osmnx library
+* Import streets, buildings and POIs of an area of interest
+* Create a KeplerGl map of your work
 
 ### Reading:
 [Open Data Barometer](https://opendatabarometer.org/4thedition/report/)
