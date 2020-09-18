@@ -1,6 +1,7 @@
 # Week 7 (11/16): Geo-processing with geopandas
 
-## Introducing spatial analysis with geopandas
+## Lecture
+* Introducing spatial analysis with geopandas
 ## Hands on
 *   Joining data
 *   Spatial analysis with geopandas
