@@ -1,7 +1,7 @@
 # Midterms and Finals
 The midterm and final will both be group projects. They are based on the same project proposal that you will submit for your first Group Assignment due at the start of Week 3. Think of the midterm as a midpoint status report of what will eventually become your final project. In rare cases, you may decide to change your topic from your midterm to your final, but understand that doing so will require a monumental effort on the groups' part to reframe your research, find new datasets, and reproduce relevant material. It is highly recommended that you carefully examine the validity and "doability" of your project before embarking into it. A note of advice: your project is only as good as your data can take you.
 
-## Midterms
+## Midterms (20% of your final grade)
 There are three deliverables for the mid-term project.
 1. Update your project proposal and resubmit. Follow the same guidelines as posted in your Group Assignment #1.
 1. Create a new Jupyter Notebook. Make sure to mix in markdown cells and code cells so that the notebook tells a cohesive narrative. Your notebook should:
@@ -18,7 +18,7 @@ There are three deliverables for the mid-term project.
 1. Present your project to the class
    
 
-## Final Project
+## Final Project (30% of your final grade)
 ### Overview
 The final project is a cumulative and applied group assignment that requires you to collectively use the skills you developed over the entire quarter. You will develop an interesting research question then answer it using the data analysis, statistics, and visualization methods you have learned in this course.
 
