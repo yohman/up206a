@@ -16,12 +16,12 @@
 *   NHTS: [https://nhts.ornl.gov/](https://nhts.ornl.gov/) 
 *   LATCH: [https://www.bts.gov/statistical-products/surveys/local-area-transportation-characteristics-households-latch-survey](https://www.bts.gov/statistical-products/surveys/local-area-transportation-characteristics-households-latch-survey) 
 
-## [Hands on](https://github.com/yohman/up206a/tree/master/Weeks/Week%202)
+## Hands on
 *   Python Boot Camp
 *   Intro to the Pandas Library
 
 ## Assignments (due 23:59 Sunday, the day before class)
-### Group Assignment #1
+### Group Assignment #1: Project Proposal
 The course will largely be guided by your final project, which will be conducted in pairs. Meet with your partner, discuss and identify a research question, and begin the collection of data, its analysis, and determine how it may answer your question. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.
 
 Next, identify and download at least two datasets that you believe begins to guide your research. Make sure that at least one of them has a spatial component. For example, if one of your datasets comes from the census, identify which survey you will use (e.g. Decennial or American Community Survey), and which variables you will select. Note that we will be covering census data in detail in Week 3. Your second dataset should come from a separate source. For example, you may want to do a crime analysis and obtain data from the LA Data Portal.
