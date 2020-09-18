@@ -1,6 +1,6 @@
 # GitHub workflows
 
-The first time you copy, or clone a the class repo, use the following steps.
+The first time you copy, or clone the class repo, do the following steps:
 
 1. log into the class Jupyter Hub
 1. go to New, Terminal
