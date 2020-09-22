@@ -16,6 +16,11 @@
 *   NHTS: [https://nhts.ornl.gov/](https://nhts.ornl.gov/) 
 *   LATCH: [https://www.bts.gov/statistical-products/surveys/local-area-transportation-characteristics-households-latch-survey](https://www.bts.gov/statistical-products/surveys/local-area-transportation-characteristics-households-latch-survey) 
 
+Other datasets
+* [US wide police shootings 2015 to present](https://github.com/washingtonpost/data-police-shootings)
+* [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+* [The Los Angeles Times' independent tally of coronavirus cases in California](https://github.com/datadesk/california-coronavirus-data)
+
 ## Hands on
 *   Python Boot Camp
 *   Intro to the Pandas Library
