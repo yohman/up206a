@@ -3,12 +3,15 @@
 
 
 ## Lecture
-*   Overview of the course
+###   Overview of the course
 *   Expectations
-*   Where did ArcMap go?
-*   What is Data Science?
-*   How is it relevant to planning?
 *   Mid-term and final projects will be based on groups (pairings)
+*   Where did ArcMap go?
+*   Questions?
+###   What is Data Science?
+*   How is it relevant to planning?
+
+### Groups
 *   Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
 
 ## Hands on
