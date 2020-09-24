@@ -9,6 +9,7 @@
 *   What is Data Science?
 *   How is it relevant to planning?
 *   Mid-term and final projects will be based on groups (pairings)
+*   Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
 
 ## Hands on
 *   Introducing GitHub
