@@ -31,4 +31,5 @@ In order to submit assignments, store data, and create your own notebooks, you w
 
 Go to GitHub and login. Click on "repositories" and "new." Follow the screen directions below:
 
-![create repo](images/git1.png)
+<kbd><img src="images/git1.png"></kbd>
+
