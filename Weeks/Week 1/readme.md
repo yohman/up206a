@@ -5,6 +5,7 @@
 ## Lecture
 ###   Overview of the course
 *   Expectations
+*   Introductions
 *   Mid-term and final projects will be based on groups (pairings)
 *   Where did ArcMap go?
 *   Questions?
