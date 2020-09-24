@@ -23,13 +23,3 @@ git fetch
 git reset --hard
 ```
 
-## Creating your class repo
-
-In order to submit assignments, store data, and create your own notebooks, you will need to create a class repository.
-
-### Creating a new repo
-
-Go to GitHub and login. Click on "repositories" and "new." Follow the screen directions below:
-
-<kbd><img src="images/git1.png"></kbd>
-
