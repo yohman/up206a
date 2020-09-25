@@ -7,9 +7,9 @@ To reset the repo, do the following:
 1. log into the class Jupyter Hub
 1. go to New, Terminal
 1. In the command prompt, type the following commands.
+
 ``` 
-git pull
-git fetch
 git reset --hard
+git pull
 ```
 
