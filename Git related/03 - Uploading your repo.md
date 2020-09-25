@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-## Uploading to your repo
-
-Once you have authored new content, like a jupyter notebook assignment, you will want to update your repo. Remember, creating a notebook in JupyterHub does not automatically add it to your repo. You have to manually do it.
-
-#### Launch a terminal window
-#### pull data from your repo in case your copy is not up to date
-```git pull```
-#### add all the files you have created, modified, or deleted to your staging area
-`git add --all`
-#### commit it prior to pushing
-`git commit -m "include note as to what is being committed"`
-#### push it to your git repo
-`git push`
-=======
 ## Uploading and updating your repo
 
 You have created your GitHub repository. You have cloned it to your local machine. You have done work on the local copy. Now it is time to update your GitHub repository with your latest work. The following steps outlines the commands you need to go through in order to update your repo.
@@ -39,4 +24,3 @@ You have created your GitHub repository. You have cloned it to your local machin
 
 1. Push it to your git repo. This is the final step that sends everything to your repo. You may be asked for your username and password.\
 `git push`
->>>>>>> c2e2191eb20c9575b1abdb2446ff5a6c2bf6550a
