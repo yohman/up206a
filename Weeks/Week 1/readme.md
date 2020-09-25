@@ -29,7 +29,7 @@
 ## Individual Assignments
 ### Create a GitHub account, and start a new repo
 
-*   Create a GitHub account, and create a project repo named “UP206A”
+*   Create a GitHub account, and create a project repo named “up206a-yourfirstname” - [Instructions](https://github.com/yohman/up206a/blob/master/Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
 
 ### Data search
