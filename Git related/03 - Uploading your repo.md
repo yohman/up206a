@@ -2,7 +2,16 @@
 
 You have created your GitHub repository. You have cloned it to your local machine. You have done work on the local copy. Now it is time to update your GitHub repository with your latest work. The following steps outlines the commands you need to go through in order to update your repo.
 
-#### 1. Launch a terminal window
+#### 1. Launch a terminal window and navigate to your repo directory
+
+Use a combination of the following commmands:
+
+`pwd` find what your current directory is
+
+`ls` output the contents of your current directory
+
+`cd` change directory
+
 
 #### 2. Check the status
 
