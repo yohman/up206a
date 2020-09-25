@@ -151,7 +151,7 @@ Weekly content is subject to change, and will be modified as needed based on cla
 ### [Week 5 (11/2): Open data and APIs](https://github.com/yohman/up206a/tree/master/Weeks/Week%205)
 
 ### [Week 6 (11/9): Mid-terms](https://github.com/yohman/up206a/tree/master/Weeks/Week%206)
-- Midterms
+- [Midterms](https://github.com/yohman/up206a/tree/master/Midterm%20and%20Finals)
 
 ### [Week 7 (11/16): Geo-processing with geopandas](https://github.com/yohman/up206a/tree/master/Weeks/Week%207)
 - [Group assignment #3: Data Visualization](https://github.com/yohman/up206a/blob/master/Group%20Assignments/GroupAssignment3.md)
