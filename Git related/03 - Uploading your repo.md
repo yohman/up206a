@@ -8,7 +8,7 @@ You have created your GitHub repository. You have cloned it to your local machin
 `cd` change directory
 
 1. Check the status. If there are files listed in red, this means that you have files you have created, modified, or deleted that you want to transfer to your repo.\
-`git status`\
+`git status`
 
 1. pull data from your repo in case your copy is not up to date\
 ```git pull```
@@ -16,9 +16,8 @@ You have created your GitHub repository. You have cloned it to your local machin
 1. Add all the files you have created, modified, or deleted to your staging area\
 `git add --all`
 
-1. Check status again\
-```git status```\
-Those red files should have turned green.
+1. Check status again. Those red files should have turned green.\
+```git status```
 
 1. Commit it prior to pushing\
 `git commit -m "include note as to what is being committed"`\
