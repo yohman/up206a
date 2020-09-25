@@ -2,7 +2,7 @@
 
 The first time you copy, or clone the class repo, do the following steps:
 
-1. log into the class Jupyter Hub
+1. log into the class [Jupyter Hub](https://jupyter.idre.ucla.edu/)
 1. go to New, Terminal
 1. in the command prompt, type `git clone repository_url`
 
