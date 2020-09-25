@@ -4,14 +4,11 @@ You have created your GitHub repository. You have cloned it to your local machin
 
 1. Launch a terminal window and navigate to your repo directory and use a combination of the following commmands:\
 `pwd` find what your current directory is\
-\
 `ls` output the contents of your current directory\
-\
 `cd` change directory
 
-1. Check the status\
+1. Check the status. If there are files listed in red, this means that you have files you have created, modified, or deleted that you want to transfer to your repo.\
 `git status`\
-If there are files listed in red, this means that you have files you have created, modified, or deleted that you want to transfer to your repo.
 
 1. pull data from your repo in case your copy is not up to date\
 ```git pull```
