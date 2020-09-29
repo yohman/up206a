@@ -137,31 +137,31 @@ Weekly content is subject to change, and will be modified as needed based on cla
 *   Make sure you can log into the class JupyterHub
     *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
-### [Week 1 (10/5): Introduction to spatial data science](https://github.com/yohman/up206a/tree/master/Weeks/Week%201)
+### [Week 1 (10/5): Introduction to spatial data science](https://github.com/yohman/up206a/tree/master/Weeks/Week1)
 
-### [Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition](https://github.com/yohman/up206a/tree/master/Weeks/Week%202)
+### [Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition](https://github.com/yohman/up206a/tree/master/Weeks/Week2)
 - [Group assignment #1: Project Proposal](https://github.com/yohman/up206a/blob/master/Group%20Assignments/GroupAssignment1.md)
 
-### [Week 3 (10/19): Understanding communities: Census data profiles](https://github.com/yohman/up206a/tree/master/Weeks/Week%203)
+### [Week 3 (10/19): Understanding communities: Census data profiles](https://github.com/yohman/up206a/tree/master/Weeks/Week3)
 - [Group assignment #2: Census Data Exploration](https://github.com/yohman/up206a/blob/master/Group%20Assignments/GroupAssignment2.md)
 
-### [Week 4 (10/26): Open Street Maps](https://github.com/yohman/up206a/tree/master/Weeks/Week%204)
+### [Week 4 (10/26): Open Street Maps](https://github.com/yohman/up206a/tree/master/Weeks/Week4)
 - [4th Annual Humanitarian Mapathon with USC](https://sites.google.com/view/lamapathon/)
 
-### [Week 5 (11/2): Open data and APIs](https://github.com/yohman/up206a/tree/master/Weeks/Week%205)
+### [Week 5 (11/2): Open data and APIs](https://github.com/yohman/up206a/tree/master/Weeks/Week5)
 
-### [Week 6 (11/9): Mid-terms](https://github.com/yohman/up206a/tree/master/Weeks/Week%206)
+### [Week 6 (11/9): Mid-terms](https://github.com/yohman/up206a/tree/master/Weeks/Week6)
 - [Midterms](https://github.com/yohman/up206a/tree/master/Midterm%20and%20Finals)
 
-### [Week 7 (11/16): Geo-processing with geopandas](https://github.com/yohman/up206a/tree/master/Weeks/Week%207)
+### [Week 7 (11/16): Geo-processing with geopandas](https://github.com/yohman/up206a/tree/master/Weeks/Week7)
 - [Group assignment #3: Data Visualization](https://github.com/yohman/up206a/blob/master/Group%20Assignments/GroupAssignment3.md)
 
-### [Week 8 (11/23): Advanced methods in spatial analysis](https://github.com/yohman/up206a/tree/master/Weeks/Week%208)
+### [Week 8 (11/23): Advanced methods in spatial analysis](https://github.com/yohman/up206a/tree/master/Weeks/Week8)
 
-### [Week 9 (11/30): Spatial Data Science: R to the “r”escue](https://github.com/yohman/up206a/tree/master/Weeks/Week%209)
+### [Week 9 (11/30): Spatial Data Science: R to the “r”escue](https://github.com/yohman/up206a/tree/master/Weeks/Week9)
 - [Group assignment #4: Spatial Analysis](https://github.com/yohman/up206a/blob/master/Group%20Assignments/GroupAssignment4.md)
 
-### [Week 10 (12/7): Final Project Preparation](https://github.com/yohman/up206a/tree/master/Weeks/Week%2010)
+### [Week 10 (12/7): Final Project Preparation](https://github.com/yohman/up206a/tree/master/Weeks/Week10)
 
 ## Resources:
 
