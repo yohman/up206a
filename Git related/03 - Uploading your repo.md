@@ -6,7 +6,8 @@ There are two ways for you to update your repo with your latest files.
 
 ## Method 1: Use the GUI
 
-This is the easy method. Simply upload your file to the repo.
+This is the easy method. Simply upload your file to the repo. First, navigate to your repo's home page on GitHub. Then, do the following:
+
 <kbd><img src="images/git-upload.png"></kbd>
 
 <kbd><img src="images/git-add-file.png"></kbd>
