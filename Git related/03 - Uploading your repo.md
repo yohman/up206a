@@ -13,7 +13,13 @@ This is the easy method. Simply upload your file to the repo.
 
 <kbd><img src="images/git-file-uploaded.png"></kbd>
 
+### What if I want to update a file that is already on the repo?
 
+If you made changes to an existing file in the repo and want to update it, all you have to do is upload it again. For example, if you have a file in your repo named `Week1-assignment.ipynb`, upload your updated file with the same file name into the repo. Git will recognized that you have updated the same file, and create a history of it.
+
+<kbd><img src="images/git-history.png"></kbd>
+
+<kbd><img src="images/git-history2.png"></kbd>
 
 
 ## Method 2: Use the command line
