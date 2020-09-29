@@ -25,9 +25,9 @@ If you made changes to an existing file in the repo and want to update it, all y
 
 ## Method 2: Use the command line
 
-The following steps outlines the commands you need to go through in order to update your repo.
+For advanced users, the following steps outlines the commands you need to go through in order to update your repo.
 
-1. Launch a terminal window and navigate to your repo directory and use a combination of the following commmands:\
+1. Launch a terminal window/command prompt and navigate to your repo directory by using a combination of the following commmands:\
 `pwd` find what your current directory is\
 `ls` output the contents of your current directory\
 `cd` change directory
@@ -45,7 +45,7 @@ The following steps outlines the commands you need to go through in order to upd
 ```git status```
 
 1. Commit it prior to pushing\
-`git commit -m "include note as to what is being committed"`\
+`git commit -m "include note as to what is being committed"`
 
 1. Push it to your git repo. This is the final step that sends everything to your repo. You may be asked for your username and password.\
 `git push`
