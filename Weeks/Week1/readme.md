@@ -9,8 +9,9 @@
 *   Mid-term and final projects will be based on groups (pairings)
 *   Where did ArcMap go?
 *   Questions?
-###   What is Data Science?
+###   What is Urban Data Science?
 *   How is it relevant to planning?
+*   What makes this course unique?
 
 ### Groups
 *   Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
