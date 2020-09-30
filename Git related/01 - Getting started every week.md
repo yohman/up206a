@@ -17,6 +17,6 @@ As you will be working on the notebooks (files with an .ipynb extension) during 
 
 To do so, right click on the file, and duplicate as shown below:
 
-<kbd><img src="images/git-duplicate.png"></kbd>
+<kbd><img src="images/jupyter-duplicate.png"></kbd>
 
 ## Week 2 and beyond
