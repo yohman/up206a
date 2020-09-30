@@ -28,7 +28,9 @@ Since you already have a copy of the class repo in your JupyterHub, you no longe
 <kbd><img src="images/gitterminal.png"></kbd>
 
 #### 3. In the command prompt, type (or copy/paste) the following:
-`cd up206a`
-`git pull`
+
+1. `cd up206a`
+1. `git pull`
+
 <kbd><img src="images/git-pull.png"></kbd>
 
