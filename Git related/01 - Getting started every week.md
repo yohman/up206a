@@ -15,7 +15,7 @@ You should now have a copy of the class repo in your JupyterHub. Look for a fold
 
 As you will be working on the notebooks (files with an .ipynb extension) during the lecture, *make a copy of these files first*.
 
-To do so, right click on the file, and duplicate as shown below:
+Check the box next to each .ipynb file and duplicate as shown below:
 
 <kbd><img src="images/jupyter-duplicate.png"></kbd>
 
