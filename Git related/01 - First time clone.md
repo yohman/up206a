@@ -1,7 +1,8 @@
+# Getting started each week
+At the start of each week, you will be asked to update the class repository. Note that this is different from your own personaly repository. To do so, follow these instructions.
 
-# GitHub workflows
-
-The first time you copy, or clone the class repo, do the following steps:
+## Week 1
+This is the first time you will interact with the class material. You are asked to clone the repository into your JupyterHub.
 
 #### 1. Log into the class [Jupyter Hub](https://jupyter.idre.ucla.edu/)
 #### 2. Go to New, Terminal
@@ -10,4 +11,12 @@ The first time you copy, or clone the class repo, do the following steps:
 
 `git clone https://github.com/yohman/up206a.git`
 
-Note that you now have a _copy_ of the repository. You can make changes as you wish. However, it is recommended that if you want to experiment with an existing file, duplicate it first, and then make changes on your copy.
+You should now have a copy of the class repo in your JupyterHub. Look for a folder `up206a` and navigate to `Weeks` and `Week1`. 
+
+As you will be working on the notebooks (files with an .ipynb extension) during the lecture, *make a copy of these files first*.
+
+To do so, right click on the file, and duplicate as shown below:
+
+<kbd><img src="images/git-duplicate.png"></kbd>
+
+## Week 2 and beyond
