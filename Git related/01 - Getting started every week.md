@@ -20,3 +20,15 @@ To do so, right click on the file, and duplicate as shown below:
 <kbd><img src="images/jupyter-duplicate.png"></kbd>
 
 ## Week 2 and beyond
+Since you already have a copy of the class repo in your JupyterHub, you no longer need to clone the repo. Instead, you will have to *pull* new material into your copy within JupyterHub.
+
+#### 1. Log into the class [Jupyter Hub](https://jupyter.idre.ucla.edu/)
+
+#### 2. Go to New, Terminal
+<kbd><img src="images/gitterminal.png"></kbd>
+
+#### 3. In the command prompt, type (or copy/paste) the following:
+`cd up206a`
+`git pull`
+<kbd><img src="images/git-pull.png"></kbd>
+
