@@ -19,6 +19,12 @@ To do so, right click on the file, and duplicate as shown below:
 
 <kbd><img src="images/jupyter-duplicate.png"></kbd>
 
+Your directory should now look like this:
+
+<kbd><img src="images/jupyter-after-duplicate.png"></kbd>
+
+When you follow the course lecture, make sure to work on the copy files!
+
 ## Week 2 and beyond
 Since you already have a copy of the class repo in your JupyterHub, you no longer need to clone the repo. Instead, you will have to *pull* new material into your copy within JupyterHub.
 
@@ -34,3 +40,4 @@ Since you already have a copy of the class repo in your JupyterHub, you no longe
 
 <kbd><img src="images/git-pull.png"></kbd>
 
+Follow the same logic as you did in Week 1: Copy each .ipynb file and follow the lecture with the copied notebook file.
