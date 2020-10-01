@@ -60,7 +60,7 @@ The course will almost entirely be conducted on Jupyter Notebooks. A [JupyterHub
 
 *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
-Weekly course materials, including presentations, interactive notebooks (.ipynb), and data will be made available through a course github repository (TBD) that you will interact with through your JupyterHub account.
+Weekly course materials, including presentations, interactive notebooks (.ipynb), and data will be made available through a course github repository (here) that you will interact with through your JupyterHub account.
 
 
 ## Assignments and Evaluation
@@ -81,13 +81,13 @@ Welcome to the new normal. It is expected that the 2020 Fall quarter will be con
 
 All synchronous classes will be recorded via Zoom so that students in this course (and only students in this course) can watch or re-watch past class sessions. Please note that breakout rooms will not be recorded. I will make the recordings available on CCLE as soon as possible after each class session (usually the day after the class meeting). Recordings will live in our CCLE website. 
 
-Please note that you are not allowed to record the class yourself or share the class recordings. This is to protect your FERPA rights and those of your fellow students.
+Please note that you are not allowed to record the class yourself or share the class recordings. This is to protect your [FERPA rights](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) and those of your fellow students.
 
 ### Sharing video
 
 In this course, being able to see one another helps to facilitate a better learning environment and promote more engaging discussions. Therefore, our default will be to expect students to have their cameras on during lectures and discussions. However, I also completely understand there may be reasons students would not want to have their cameras on. If you have any concerns about sharing your video, please email me as soon as possible and we can discuss possible adjustments. 
 
-Note: You may use a background image in your video if you wish; just check in advance that this works with your device(s) and internet bandwidth.  Also, having a profile picture on your Zoom account helps humanize your presence in the course at times when you need to shut the camera off.
+Note: You may use a [background image](https://humtech.ucla.edu/instructional-support/integrated-tools/zoom-teleconferencing/zoom-backgrounds/) in your video if you wish; just check in advance that this works with your device(s) and internet bandwidth.  Also, having a profile picture on your Zoom account helps humanize your presence in the course at times when you need to shut the camera off.
 
 ### Parents
 
