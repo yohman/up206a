@@ -6,6 +6,7 @@
 ###   Overview of the course
 *   Expectations
 *   Introductions
+*   Who are you? Survey results...
 *   Mid-term and final projects will be based on groups (pairings)
 *   Where did ArcMap go?
 *   Questions?
