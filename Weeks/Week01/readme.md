@@ -41,7 +41,14 @@ First, a definition:
 ### Data search
 *   Search for two or more potential data sources that you may use. Make sure that they are "downloadable." Then, write a sentence or two for each dataset that explains how it can be used to answer a potential research question, and how you think it can be visualized spatially.
 
-## Reading assignment
+### Reading assignment
 This week's reading assignment is for you to find an article, blog, journal, chapter, or book that talks about data/information/knowledge/coding that includes some spatial component. Make sure it is something that you would like to share with the class. Then, write a paragraph (yes, a paragraph, not two) that summarizes the article. Write a second paragraph where you reflect critically and creatively about the material in your own words. Why did this article speak to you in regards to your approach to data and research? 
 
 The instructors will select a few of the readings for discussion in week 2.
+
+## Submitting assignments
+In your github page, create a folder for assignments.
+
+<kbd><img src="images/jupyter-add.png"></kbd>
+
+
