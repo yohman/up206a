@@ -47,8 +47,7 @@ This week's reading assignment is for you to find an article, blog, journal, cha
 The instructors will select a few of the readings for discussion in week 2.
 
 ## Submitting assignments
-In your github page, create a folder for assignments.
 
-<kbd><img src="../images/jupyter-add.png"></kbd>
+Upload your assignments as pdf documents to your github repo.
 
 
