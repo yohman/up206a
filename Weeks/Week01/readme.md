@@ -49,6 +49,6 @@ The instructors will select a few of the readings for discussion in week 2.
 ## Submitting assignments
 In your github page, create a folder for assignments.
 
-<kbd><img src="images/jupyter-add.png"></kbd>
+<kbd><img src="../images/jupyter-add.png"></kbd>
 
 
