@@ -38,16 +38,21 @@ First, a definition:
 *   Create a GitHub account, and create a project repo named “up206a-yourfirstname” - [Instructions](https://github.com/yohman/up206a/blob/master/Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
 
-### Data search
-*   Search for two or more potential data sources that you may use. Make sure that they are "downloadable." Then, write a sentence or two for each dataset that explains how it can be used to answer a potential research question, and how you think it can be visualized spatially.
+### Submit two or more datasets
+Search for two or more potential data sources that you may use for your research. Make sure that they are "downloadable." Submit your dataset using the following google form:
+
+*  https://forms.gle/ikT1YDa5gQrV2ntb6
+
 
 ### Reading assignment
 This week's reading assignment is for you to find an article, blog, journal, chapter, or book that talks about data/information/knowledge/coding that includes some spatial component. Make sure it is something that you would like to share with the class. Then, write a paragraph (yes, a paragraph, not two) that summarizes the article. Write a second paragraph where you reflect critically and creatively about the material in your own words. Why did this article speak to you in regards to your approach to data and research? 
 
 The instructors will select a few of the readings for discussion in week 2.
 
-## Submitting assignments
+You have two options on how to submit your reading assignment. 
 
-Upload your assignments as pdf documents to your github repo.
+1. Option A: Upload your assignment as a pdf to your github repo.
+1. Option B: Create a markdown file in your repo titled `Week1_reading_assignment.md` and submit your assignment using markdown code.
+
 
 
