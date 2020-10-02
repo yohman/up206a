@@ -9,7 +9,8 @@
 *   Who are you? Survey results...
 *   Mid-term and final projects will be based on groups (pairings)
 *   Where did ArcMap go?
-*   Questions?
+*   Questions? Concerns?
+
 ###   What is Spatial Data Science?
 
 First, a definition:
