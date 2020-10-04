@@ -56,6 +56,6 @@ The instructors will select a few of the readings for discussion in week 2.
 You have two options on how to submit your reading assignment. 
 
 1. Option A: Upload your assignment as a pdf to your github repo.
-1. Option B: Create a markdown file in your repo titled `Week1_reading_assignment.md` and submit your assignment using markdown code.
+1. Option B (preferred): Create a markdown file in your repo titled `Week1_reading_assignment.md` and submit your assignment using markdown code.
 
 
