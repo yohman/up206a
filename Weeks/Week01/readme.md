@@ -4,6 +4,7 @@
 
 ## Lecture
 ###   Overview of the course
+*   Welcome!
 *   Expectations
 *   Introductions
 *   Who are you? Survey results...
