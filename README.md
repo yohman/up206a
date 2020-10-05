@@ -20,11 +20,9 @@ Chris Giamarino (cgiamarino@g.ucla.edu)
 
 _Please email in advance for appointments._
 
-Yoh: Thursdays 1PM - 3PM and by appointment
-
-Bo: 12:45-1:45pm on Mondays and by appointment
-
-Chris: TBD and by appointment
+* Yoh: Thursdays 1PM - 3PM and by appointment
+* Bo: Thursday 5PM -6PM and by appointment
+* Chris: Thursdays 10AM-12PM and by appointment
 
 
 ## Course Description
