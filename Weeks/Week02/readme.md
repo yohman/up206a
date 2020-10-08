@@ -57,3 +57,4 @@ Next, create a group repo.
 
 ### Reading assignment:
 *   ["Counting California: Challenges for the 2020 Census" by The Public Policy Institute of California](https://www.ppic.org/publication/counting-california-challenges-for-the-2020-census/)
+*   [Every Angeleno Counts: The 2020 Census in Los Angeles](https://usc.data.socrata.com/stories/s/Every-Angeleno-Counts-The-2020-Census-in-Los-Angel/anyu-vh6b/)
