@@ -28,5 +28,5 @@ Next week, we will have our first guest speaker for the class. Here, I present t
 
 *  [OSMnx: New methods for acquiring, constructing, analyzing, and
 visualizing complex street networks](https://www.researchgate.net/publication/309738462_OSMnx_New_Methods_for_Acquiring_Constructing_Analyzing_and_Visualizing_Complex_Street_Networks)
-*  [Off the Grid… and Back Again? The Recent Evolution of American Street Network Planning and Design](../../reading/boeing_off_the_grid_2020.pdf)
+*  [Off the Grid… and Back Again? The Recent Evolution of American Street Network Planning and Design](../../readings/boeing_off_the_grid_2020.pdf)
 
