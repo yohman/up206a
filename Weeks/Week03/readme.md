@@ -25,4 +25,5 @@ For this group assignment, you will create and submit a Jupyter Notebook. The fi
 ### Reading Assignment
 *  [OSMnx: New methods for acquiring, constructing, analyzing, and
 visualizing complex street networks](https://www.researchgate.net/publication/309738462_OSMnx_New_Methods_for_Acquiring_Constructing_Analyzing_and_Visualizing_Complex_Street_Networks)
+*  [Off the Grid… and Back Again? The Recent Evolution of American Street Network Planning and Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3665445)
 
