@@ -5,7 +5,9 @@
 - Announcement: 4th Annual Battle of the Maps: A Humanitarian Mapathon
 - Covid Data and Maps by the LA Times
 - What is OSM?
-- What can you do with OSMNX? [A conversation with Geoff Boeing, its creator](https://www.youtube.com/watch?v=Q0uxu25ddc4)
+
+## Guest speaker: A Conversation With Geoff Boeing (4:30pm)
+
 ## Hands on
 - Creating neighborhood maps with Open Street Map
     - Using the osmnx library
