@@ -28,8 +28,8 @@ Other datasets
 * [The Los Angeles Times' independent tally of coronavirus cases in California](https://github.com/datadesk/california-coronavirus-data)
 
 ## Hands on
-*   Python Boot Camp
-*   Intro to the Pandas Library
+*   Python Boot Camp Review
+*   Intro to the geopandas library using Metro data
 
 ## Assignments (due 23:59 Sunday, the day before class)
 ### Group Assignment #1: Project Proposal
