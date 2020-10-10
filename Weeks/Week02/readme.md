@@ -51,11 +51,20 @@ Next, create a group repo.
 1. Create a Group Assignments folder (hint: click on Add File, Create new File, and enter "Group Assignments/readme.md" in the text box)
 4. Upload (or git push) your your project proposal into the Group Assignments folder
 
-### Individual assignment:
-*   Launch JupyterHub, import a dataset of your choice, and conduct data exploration, making sure to document your steps and your preliminary findings
+### Individual assignment: Data Exploration
+*   Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. If you do not have a dataset, you can download one from the [Los Angeles Times' "Mapping L.A. Boundaries"](http://boundaries.latimes.com/sets/) page.
+*   Launch JupyterHub, import the data, and conduct data exploration, making sure to document your steps and your preliminary findings. At minimum, run the following commands:
+    * `.shape`
+    * `.info`
+    * `.head()`
 *   Add your first data exploration Jupyter Notebook to your GitHub repository
 
 ### Reading assignment:
+Next week we begin our first episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), a former director of the [Center for Neighborhood Knowledge](https://knowledge.luskin.ucla.edu/), and the department's most recent PhD graduate. Read her paper on gentrification, and prepare to ask her some questions next week.
+
 *   ["Triangulating Neighborhood Knowledge to Understand Neighborhood Change: Methods to Study Gentrification" by Anastais Loukaitou-Sideris, Silvia Gonzales, and Paul Ong](../../readings/sideris_gonzales_ong.pdf)
+
+Additional readings on the state of the census:
+
 *   ["Counting California: Challenges for the 2020 Census" by The Public Policy Institute of California](https://www.ppic.org/publication/counting-california-challenges-for-the-2020-census/)
 *   [Every Angeleno Counts: The 2020 Census in Los Angeles](https://usc.data.socrata.com/stories/s/Every-Angeleno-Counts-The-2020-Census-in-Los-Angel/anyu-vh6b/)
