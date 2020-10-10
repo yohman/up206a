@@ -1,11 +1,13 @@
 # Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition
 
-## Lecture
+## Agenda
 
 *   A selection from last week's readings
 *   Our class data library
-*   Group time!
-*   The digital globe: Where to get data, how to use it, what can it do for you?
+*   Group creation
+    * Your elevator pitch
+    * Breakout rooms based on interests
+    * Google doc to enter your group pairings
 
 ## Data resources
 *   Census data: [https://data.census.gov/](https://data.census.gov/) 
