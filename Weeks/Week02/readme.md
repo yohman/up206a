@@ -3,7 +3,7 @@
 ## Agenda
 
 *   A selection from last week's readings
-*   Our class data library
+*   [Our class data library](https://docs.google.com/spreadsheets/d/1m67s0-SptURpRLr6ISq6Fy7e_66LcSPLjfPjqhZxC8M/edit?usp=sharing)
 *   Group creation
     * Your elevator pitch
     * Breakout rooms based on interests
