@@ -9,7 +9,7 @@
     * Breakout rooms based on interests
     * Google doc to enter your group pairings
 
-## Data resources
+## A first look at data resources
 *   Census data: [https://data.census.gov/](https://data.census.gov/) 
 *   Census reporter: [https://censusreporter.org/](https://censusreporter.org/) 
 *   Social Explorer (requires UCLA VPN for full access): [https://www.socialexplorer.com/explore-maps](https://www.socialexplorer.com/explore-maps)  
@@ -28,8 +28,8 @@ Other datasets
 * [The Los Angeles Times' independent tally of coronavirus cases in California](https://github.com/datadesk/california-coronavirus-data)
 
 ## Hands on
-*   Python Boot Camp Review
-*   Intro to the geopandas library using Metro data
+*   [Python Boot Camp Review](W201-PythonReview.ipynb)
+*   [Intro to the geopandas library using Metro data](W202-PythonandMetro.ipynb)
 
 ## Assignments (due 23:59 Sunday, the day before class)
 ### Group Assignment #1: Project Proposal
