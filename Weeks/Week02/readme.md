@@ -1,13 +1,15 @@
 # Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition
 
-## Lecture
+## Agenda
 
 *   A selection from last week's readings
 *   Our class data library
-*   Group time!
-*   The digital globe: Where to get data, how to use it, what can it do for you?
+*   Group creation
+    * Your elevator pitch
+    * Breakout rooms based on interests
+    * Google doc to enter your group pairings
 
-## Data resources
+## A first look at data resources
 *   Census data: [https://data.census.gov/](https://data.census.gov/) 
 *   Census reporter: [https://censusreporter.org/](https://censusreporter.org/) 
 *   Social Explorer (requires UCLA VPN for full access): [https://www.socialexplorer.com/explore-maps](https://www.socialexplorer.com/explore-maps)  
@@ -26,8 +28,8 @@ Other datasets
 * [The Los Angeles Times' independent tally of coronavirus cases in California](https://github.com/datadesk/california-coronavirus-data)
 
 ## Hands on
-*   Python Boot Camp
-*   Intro to the Pandas Library
+*   [Python Boot Camp Review](W201-PythonReview.ipynb)
+*   [Intro to the geopandas library using Metro data](W202-PythonandMetro.ipynb)
 
 ## Assignments (due 23:59 Sunday, the day before class)
 ### Group Assignment #1: Project Proposal
@@ -51,11 +53,23 @@ Next, create a group repo.
 1. Create a Group Assignments folder (hint: click on Add File, Create new File, and enter "Group Assignments/readme.md" in the text box)
 4. Upload (or git push) your your project proposal into the Group Assignments folder
 
-### Individual assignment:
-*   Launch JupyterHub, import a dataset of your choice, and conduct data exploration, making sure to document your steps and your preliminary findings
+### Individual assignment: Data Exploration
+*   Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. If you do not have a dataset, you can download one from the [Los Angeles Times' "Mapping L.A. Boundaries"](http://boundaries.latimes.com/sets/) page.
+*   Launch JupyterHub, import the data, and conduct data exploration, making sure to document your steps and your preliminary findings. At minimum, run the following commands:
+    * `.shape`
+    * `.info`
+    * `.head()`
 *   Add your first data exploration Jupyter Notebook to your GitHub repository
 
 ### Reading assignment:
-*   ["Triangulating Neighborhood Knowledge to Understand Neighborhood Change: Methods to Study Gentrification" by Anastais Loukaitou-Sideris, Silvia Gonzales, and Paul Ong](../../readings/sideris_gonzales_ong.pdf)
+
+![Silvia](https://knowledge.luskin.ucla.edu/wp-content/uploads/2016/11/rsz_silvia.jpg)
+
+Next week we begin our first episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), a former director of the [Center for Neighborhood Knowledge](https://knowledge.luskin.ucla.edu/), and the department's most recent PhD graduate. Read her paper on gentrification, and prepare to ask her some questions next week.
+
+*   ["Triangulating Neighborhood Knowledge to Understand Neighborhood Change: Methods to Study Gentrification" by Anastasia Loukaitou-Sideris, Silvia Gonzales, and Paul Ong](../../readings/sideris_gonzales_ong.pdf)
+
+Additional readings on the state of the census:
+
 *   ["Counting California: Challenges for the 2020 Census" by The Public Policy Institute of California](https://www.ppic.org/publication/counting-california-challenges-for-the-2020-census/)
 *   [Every Angeleno Counts: The 2020 Census in Los Angeles](https://usc.data.socrata.com/stories/s/Every-Angeleno-Counts-The-2020-Census-in-Los-Angel/anyu-vh6b/)
