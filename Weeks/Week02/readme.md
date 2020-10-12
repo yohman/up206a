@@ -3,6 +3,7 @@
 ## Agenda
 
 *   Welcome to week 2
+    * Before we begin, log in to [JupyterHub](https://jupyter.idre.ucla.edu/)
     * Concerns? Questions?
     * Office hours - we're here for you!
 *   Group creation
@@ -32,6 +33,7 @@ Other datasets
 * [The Los Angeles Times' independent tally of coronavirus cases in California](https://github.com/datadesk/california-coronavirus-data)
 
 ## Hands on
+*   [Getting started](https://github.com/yohman/up206a/blob/master/Git%20related/01%20-%20Getting%20started%20every%20week.md)
 *   [Python Boot Camp Review](W201-PythonReview.ipynb)
 *   [Intro to the geopandas library using Metro data](W202-PythonandMetro.ipynb)
 
