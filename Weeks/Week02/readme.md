@@ -11,6 +11,7 @@
     * Google doc to enter your group pairings
 *   A selection from last week's readings
 *   [Our class data library](https://docs.google.com/spreadsheets/d/1m67s0-SptURpRLr6ISq6Fy7e_66LcSPLjfPjqhZxC8M/edit?usp=sharing)
+*   Next week: first of our conversation series
 
 ## A first look at data resources
 *   Census data: [https://data.census.gov/](https://data.census.gov/) 
