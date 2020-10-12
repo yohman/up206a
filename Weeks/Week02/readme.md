@@ -66,7 +66,7 @@ Create a 1-2 markdown page, which will be your group's project proposal. Make su
     * `.shape`
     * `.info`
     * `.head()`
-*   Add your first data exploration Jupyter Notebook to your GitHub repository
+*   Add your first data exploration Jupyter Notebook to your GitHub repository and title it "Week2_Data_Exploration.ipynb"
 
 ### Reading assignment:
 
