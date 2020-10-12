@@ -4,6 +4,7 @@
 
 *   Welcome to week 2
     * Concerns? Questions?
+      * A review of [midterm and final requirements](https://github.com/yohman/up206a/tree/master/Midterm%20and%20Finals)
     * Office hours - we're here for you!
 *   Group creation
     * Your elevator pitch
