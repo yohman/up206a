@@ -49,7 +49,7 @@ First, create a group repo.
 1. Create a Group Assignments folder (hint: click on Add File, Create new File, and enter "Group Assignments/readme.md" in the text box)
 4. Create a markdown file for your project proposal
 
-Create a 1-2 markdown page, which will be your group's project proposal. Make sure to include the following:
+Create a markdown page (optionally, you may choose to upload a PDF), which will be your group's project proposal. Make sure to include the following:
 *   An introduction of your research question
 *   An explanation of why it is important to you, why it matters to others, and what is at stake
 *   A description of the spatial scope (e.g. Boyle Heights or Hong Kong), and why space and/or time matters for your project
