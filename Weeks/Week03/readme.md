@@ -16,7 +16,7 @@
     ![Silvia Book](https://assets.cambridge.org/97813166/21363/cover/9781316621363.jpg)
 
     * Her dissertation: "[The Role of Neighborhoods and Ethnorace in Constructing Health-Related Disparities in California](https://escholarship.org/uc/item/0sw2t3nt)"
-    
+    * [Center for Neighborhood Knowledge](https://knowledge.luskin.ucla.edu/)
 *   Census Data
 
 ## Hands on
