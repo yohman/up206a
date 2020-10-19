@@ -2,7 +2,13 @@
 
 Go to: https://www.socialexplorer.com/
 
+Check that you are using the campus VPN.
+
+Create an account and log in.
+
 <kbd><img src="images/se1.png"></kbd>
+
+Go to `Tables` and `Create Table`
 
 <kbd><img src="images/se2.png"></kbd>
 
