@@ -2,12 +2,12 @@
 
 
 ## Lecture
+*   Conversation Series #1: Silvia Gonzales
 *   Census Data
-*   Python for urban data analysis
+
 ## Hands on
 *   Census data exploration in python using pandas
-*   Plotting with matplotlib
-*   Quick interactive mapping with Folium
+
 ## Assignments
 
 ### Group Assignment #2: Census Data Exploration
