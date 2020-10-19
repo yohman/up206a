@@ -1,5 +1,7 @@
 # Download Census Data from Social Explorer
 
+Go to: https://www.socialexplorer.com/
+
 <kbd><img src="images/se1.png"></kbd>
 
 <kbd><img src="images/se2.png"></kbd>
