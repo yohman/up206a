@@ -17,10 +17,10 @@
 
     * Her dissertation: "[The Role of Neighborhoods and Ethnorace in Constructing Health-Related Disparities in California](https://escholarship.org/uc/item/0sw2t3nt)"
     * [Center for Neighborhood Knowledge](https://knowledge.luskin.ucla.edu/)
-*   Census Data
 
 ## Hands on
-*   Census data exploration in python using pandas
+*   [Getting started](https://github.com/yohman/up206a/blob/master/Git%20related/01%20-%20Getting%20started%20every%20week.md)
+*   [Census data exploration in python using pandas](https://github.com/yohman/up206a/blob/master/Weeks/Week03/W301%20-%20Python%20and%20census%20data.ipynb)
 
 ## Assignments
 
