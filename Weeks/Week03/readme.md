@@ -32,6 +32,8 @@ For this group assignment, you will create and submit a Jupyter Notebook. The fi
 
 ### Reading Assignment
 
+![Geoff Boeing](https://i1.wp.com/geoffboeing.com/wp-content/uploads/2014/08/geoff-boeing-headshot-1.jpg?resize=150%2C150&ssl=1)
+
 Next week, we will have our second guest speaker Geoff Beoing for the class. Here, I present two of his readings. One introduces you to OSMNX, a python module he built for the purposes of allowing network analysis with Open Street Map data. I also list his latest paper, which looks at the evolution of American street network design, and how the use of data science tools can inform our perspective and knowledge on the evolution of urban networks.
 
 1.   Create a markdown file in your repo titled `Week 3 Reading Assignment`
