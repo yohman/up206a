@@ -14,6 +14,7 @@
     ![Silvia](https://knowledge.luskin.ucla.edu/wp-content/uploads/2016/11/rsz_silvia.jpg)
 
     ![Silvia Book](https://assets.cambridge.org/97813166/21363/cover/9781316621363.jpg)
+    ([Book link](https://www.cambridge.org/core/books/uneven-urbanscape/87D3E09EFC1728E207309EFCFB50CF8D))
 
     * Her dissertation: "[The Role of Neighborhoods and Ethnorace in Constructing Health-Related Disparities in California](https://escholarship.org/uc/item/0sw2t3nt)"
     * [Center for Neighborhood Knowledge](https://knowledge.luskin.ucla.edu/)
