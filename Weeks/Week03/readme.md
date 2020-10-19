@@ -10,6 +10,13 @@
       * Include a notebook file (.ipynb) AND associated data files (if shapefile, zip all files)
       * Alternatively, provide a link to a github repo that has your notebook and datafiles
 *   Conversation Series #1: Silvia Gonzales
+
+    ![Silvia](https://knowledge.luskin.ucla.edu/wp-content/uploads/2016/11/rsz_silvia.jpg)
+
+    ![Silvia Book](https://assets.cambridge.org/97813166/21363/cover/9781316621363.jpg)
+
+    * Her dissertation: "[The Role of Neighborhoods and Ethnorace in Constructing Health-Related Disparities in California](https://escholarship.org/uc/item/0sw2t3nt)"
+    
 *   Census Data
 
 ## Hands on
