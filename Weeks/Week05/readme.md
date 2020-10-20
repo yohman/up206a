@@ -1,6 +1,7 @@
 # Week 5 (11/2): Open data and APIs
 
 ## Lecture
+- Conversation Series: Norman Wong (Senior GIS Analyst at Los Angeles County Internal Services Department)
 - Open data, API’s and why that matters
 - Learning SQL and why it is relevant to understanding data filtering
 ## Case Study: LA Open Data Portal
