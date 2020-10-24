@@ -1,0 +1,133 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R12654940
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2018 (5-Year Estimates)
+Dataset:          Social Explorer Tables: ACS 2018 (5-Year Estimates)
+Tables:
+
+      1. Median Household Income by Race (In <DollarYear> Inflation Adjusted Dollars)
+         Universe:  Households
+         Name:      A14007
+         Variables:
+            A14007_001:   Median Household Income (In 2018 Inflation Adjusted Dollars):
+            A14007_002:      White Alone Householder
+            A14007_003:      Black or African American Alone Householder
+            A14007_004:      American Indian and Alaska Native Alone  Householder
+            A14007_005:      Asian Alone
+            A14007_006:      Native Hawaiian and Other Pacific Islander Alone  Householder
+            A14007_007:      Some Other Race Alone Householder
+            A14007_008:      Two or More Races Householder
+            A14007_009:      Hispanic or Latino Householder
+            A14007_010:      White Alone Householder, Not Hispanic or Latino
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      GEOID:          Geographic Identifier
+      NAME:           Name of Area
+      QName:          Qualifying Name
+      STUSAB:         State/U.S.-Abbreviation (USPS)
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      FILEID:         File Identification
+      LOGRECNO:       Logical Record Number
+      US:             US
+      REGION:         Region
+      DIVISION:       Division
+      STATECE:        State (Census Code)
+      STATE:          State (FIPS)
+      COUNTY:         County
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      PLACESE:        Place (State FIPS + Place FIPS)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/Alaska Native Area/Hawaiian Home Land (Census)
+      AIANHHFP:       American Indian Area/Alaska Native Area/Hawaiian Home Land (FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITSCE:         American Indian Tribal Subdivision (Census)
+      AITS:           American Indian Tribal Subdivision (FIPS)
+      ANRC:           Alaska Native Regional Corporation (FIPS)
+      CBSA:           Metropolitan and Micropolitan Statistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/Micropolitan Indicator Flag
+      NECTA:          New England City and Town Combined Statistical Area
+      CNECTA:         New England City and Town Area
+      NECTADIV:       New England City and Town Area Division
+      UA:             Urban Area
+      UACP:           Urban Area Central Place
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      VTD:            Voting District
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      ZCTA5:          ZIP Code Tabulation Area (5-digit)
+      SUBMCD:         Subbarrio (FIPS)
+      SDELM:          School District (Elementary)
+      SDSEC:          School District (Secondary)
+      SDUNI:          School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      TAZ:            Traffic Analysis Zone
+      UGA:            Urban Growth Area
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      PUMA5:          Public Use Microdata Area - 5% File
+      PUMA1:          Public Use Microdata Area - 1% File
+      A14007_001:     Median Household Income (In 2018 Inflation Adjusted Dollars):
+      A14007_002:     Median Household Income (In 2018 Inflation Adjusted Dollars): White Alone Householder
+      A14007_003:     Median Household Income (In 2018 Inflation Adjusted Dollars): Black or African American Alone Householder
+      A14007_004:     Median Household Income (In 2018 Inflation Adjusted Dollars): American Indian and Alaska Native Alone  Householder
+      A14007_005:     Median Household Income (In 2018 Inflation Adjusted Dollars): Asian Alone
+      A14007_006:     Median Household Income (In 2018 Inflation Adjusted Dollars): Native Hawaiian and Other Pacific Islander Alone  Householder
+      A14007_007:     Median Household Income (In 2018 Inflation Adjusted Dollars): Some Other Race Alone Householder
+      A14007_008:     Median Household Income (In 2018 Inflation Adjusted Dollars): Two or More Races Householder
+      A14007_009:     Median Household Income (In 2018 Inflation Adjusted Dollars): Hispanic or Latino Householder
+      A14007_010:     Median Household Income (In 2018 Inflation Adjusted Dollars): White Alone Householder, Not Hispanic or Latino
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2020
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R12654940
+
+If you have any questions contact info@socialexplorer.com
