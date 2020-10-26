@@ -6,7 +6,7 @@
 - Covid Data and Maps by the LA Times
 - What is OSM?
 
-## Guest speaker: A Conversation With Geoff Boeing (4:30pm)
+## Guest speaker: A Conversation With Geoff Boeing (4:20pm)
 
 ![Geoff Boeing](https://i1.wp.com/geoffboeing.com/wp-content/uploads/2014/08/geoff-boeing-headshot-1.jpg?resize=150%2C150&ssl=1)
 
