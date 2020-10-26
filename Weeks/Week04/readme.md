@@ -5,8 +5,6 @@
 <a href="http://bit.ly/lamapathon" target="_blank"><img src="images/2020mapathon.png"></a>
 
 - Announcement: 4th Annual Battle of the Maps: A Humanitarian Mapathon
-- Covid Data and Maps by the LA Times
-- What is OSM?
 
 ## Guest speaker: A Conversation With Geoff Boeing (4:20pm)
 
