@@ -2,6 +2,8 @@
 # Week 4 (10/26): Open Street Maps
 
 ## Lecture 
+- As always... any concerns?
+
 <a href="http://bit.ly/lamapathon" target="_blank"><img src="images/2020mapathon.png"></a>
 
 - Announcement: [4th Annual Battle of the Maps: A Humanitarian Mapathon](https://sites.google.com/view/lamapathon/)
