@@ -14,17 +14,15 @@
     - Import streets, buildings, and POIs
 ## Assignments
 
-### No Group Assignment
-* Instead, participate in the Humanitarian Mapathon by contributing digitized buildings
+### Mini Group Assignment
+For this week's group assignment, meet with your partner and submit a status report as a markdown file in your group repo. This will simply be graded as a "done" or "not done" and count towards your participation grade.
 
-### Individual Assignment: LA Times Coronavirus Tracking
-Review the [LA Times Coronavirus Tracking page](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/). Check out the accompanying [github page](https://github.com/datadesk/california-coronavirus-data) that makes available all the data that is used on their tracking page. 
-
-Clone, or download the LA Times github repo into your local drive, and run examples.ipybn.
-
-Submit a one page paper 
-- Include your reaction to the LA Times Coronavirus Tracking project. Is this an effective way to communicate their work? How does it address issues of transparency? 
-- Ben Welsh, the Data and Graphics Editor of the LA Times, will speak at the Humanitarian Mapathon. Come up with at least two questions you would like to ask him, regarding his work with the coronavirus tracking project. I will select a handful of the questions from our class to ask him during his talk.
+Include the following sections:
+* Project title and link to proposal
+* Roles (only for groups): Give each team member a title, and define what role each team member will play, and how each person plans to contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
+* Status update: Report on the general mood of the team, and provide details as to what is working, and what is not.
+* Data update: Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
+* Concerns: There should be a lot to be concerned about at this phase of the project. List those concerns out and classify them as "Major concerns" and/or "Minor concenrs."
 
 ### Reading:
 [Open Data Barometer](https://opendatabarometer.org/4thedition/report/)
