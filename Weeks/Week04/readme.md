@@ -2,7 +2,8 @@
 # Week 4 (10/26): Open Street Maps
 
 ## Lecture 
-![Mapathon](images/2020mapathon.png)
+<a href="http://bit.ly/lamapathon" target="_blank"><img src="images/2020mapathon.png"></a>
+
 - Announcement: 4th Annual Battle of the Maps: A Humanitarian Mapathon
 - Covid Data and Maps by the LA Times
 - What is OSM?
