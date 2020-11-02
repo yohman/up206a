@@ -14,7 +14,7 @@
 - Using Python to access Open Data Portals
 - LA Times Data Desk
 ## Assignments
-- Midterms!
+- [Midterms](https://github.com/yohman/up206a/tree/14aed65079aab3bcaa1456f12d64a93d5c670788/Midterm%20and%20Finals)
 - Presentations
   -  8 minutes per group
   -  Each group member must present a portion of the project, for roughly an equal time of the presentation
