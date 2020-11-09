@@ -21,6 +21,13 @@
     * folium
     * kepler
     * OSMnx
+
+* We've heard from:
+  * Silvia Gonzales (Center for Neighborhood Knowledge)
+  * Geoff Boeing (USC Urban Data Scientist/Professor)
+  * Rachel Levine (Missing Maps/American Red Cross)
+  * Ben Welsh (LA Times Data Journalist)
+  * Norman Wong (LA Couty Enterprise GIS Manager)
   
 * What's next (subject to change):
   * Introducing basic spatial statistics
