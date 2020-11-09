@@ -22,7 +22,7 @@
     * kepler
     * OSMnx
   
-* What's next:
+* What's next (subject to change):
   * Introducing basic spatial statistics
   * Introducing spatial network analysis
   * Qualitative data collection: A Twitter storyline
