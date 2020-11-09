@@ -40,5 +40,5 @@
 | Sarah & Sara | Green Space and Crime |
 
 ## Hands on
+* Geocoding
 * Multiple overlays
-* Spatial queries
