@@ -8,7 +8,7 @@ The midterm was an exploration of the many datasets and methods for your final p
 
 ## Add a function
 
-In addition to the task of cleaning up the notebook(s), include one or more functions in your data workflow. Functions can dramatically cut down the amount of code needed in your project. For example, consider a situation where you may want to produce a map that displays crime for different neighborhoods. You can create a function that takes in an argument for `neighborhood`:
+In addition to the task of cleaning up the notebook(s), include one or more functions in your data workflow. Functions can dramatically cut down the amount of code needed in your project. For example, consider a situation where you may want to produce multiple maps that display crime for different neighborhoods. You could create multiple cells with the code to create these maps... or, you can create a function that takes in an argument for `neighborhood` that then generates the map:
 
 ```python
 # function
@@ -19,8 +19,6 @@ def crime_by_neighborhood(place):
 crime_by_neighborhood(place='Downtown')
 
 ````
-
-
 
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
 
