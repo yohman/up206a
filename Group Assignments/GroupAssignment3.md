@@ -1,4 +1,4 @@
-# Group Assignment #3: Spatial Summaries
+# Group Assignment #3: A "functional" notebook
 
 There are two components to this group assignments.
 
