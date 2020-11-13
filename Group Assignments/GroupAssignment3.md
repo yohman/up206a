@@ -1,6 +1,6 @@
 # Group Assignment #3: A "functional" notebook
 
-There are two components to this group assignments.
+There are two components to this group assignment.
 
 ## A "clean" notebook
 
