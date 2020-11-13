@@ -1,6 +1,6 @@
 # Week 7 (11/16): Geo-processing with geopandas
 
-## Conversation Series for Week 7: Adam Millard-Ball
+## Conversation Series for Week 8: Adam Millard-Ball
 Make sure to read one (or more) of the following papers by Adam:
 - The PNAS street-network sprawl paper (https://www.pnas.org/content/117/4/1941) is the most elaborate and gets into OSM and street connectivity metrics
 - The parking paper (https://authors.elsevier.com/a/1bvYg,M0mRH3NY) is a nice example of dealing with GPS data
