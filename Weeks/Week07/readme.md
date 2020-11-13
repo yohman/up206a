@@ -1,20 +1,35 @@
 # Week 7 (11/16): Geo-processing with geopandas
 
+## Conversation Series for Week 7: Adam Millard-Ball
+Make sure to read one (or more) of the following papers by Adam:
+- The PNAS street-network sprawl paper (https://www.pnas.org/content/117/4/1941) is the most elaborate and gets into OSM and street connectivity metrics
+- The parking paper (https://authors.elsevier.com/a/1bvYg,M0mRH3NY) is a nice example of dealing with GPS data
+- The street width paper ([link-requires password](https://ucla.box.com/s/t6rah5b7pvkjp9vrqxzyafi7n15unswr)) is still a draft, and is simpler in terms of the data science angles but might be more accessible.
+
 ## Lecture
-* Introducing spatial analysis with geopandas
-## Hands on
-*   Joining data
-*   Spatial analysis with geopandas
-## Assignments
-### Group Assignment #3: Data Visualization
+* The anatomy of a function
 
-For this assignment, you will use data from two sources: Open Street Map (using osmnx), and an Open Data Portal (using sodapy). If you want to use a different source for your data, make sure to consult with me first.
+# Group Assignment #3: A "functional" notebook
 
-Use pandas and/or geopandas to load your data set and clean/process it as needed. For your Open Street Map data, convert it to a geopandas dataframe, and plot them. Each plot should be followed by a markdown cell that describes the urban fabric that is revealed by the plot. 
+There are two components to this group assignment.
 
-For your open data, identify at least two variables of interest and calculate relevant descriptive statistics. Using the techniques we learned in class, visualize interesting aspects of your data set. In total, you will create at least 4 visualizations using at least 3 different visualization types (such as bar charts, line charts, scatter plots, or anything else, including a map). 1 of your visualizations should be a "bad" visualization (that is, does not follow best practices) and the next one should be an improvement of it.
+## A "clean" notebook
 
-Each visualization should be followed by a markdown cell that succinctly explains what you are visualizing and why it is interesting. What story does it tell? How do the visuals enrich, confirm, or contradict the descriptive statistics you calculated earlier? For the "bad" visualization and its improvement, explain what's wrong with the former and how you improved it with the latter.
+The midterm was an exploration of the many datasets and methods for your final project. It documented experimentations, failures, and successes along the way. It also exposed the challenges of working on a team, with potentially multiple notebooks to deliver different outputs. For this group assignment, take the time to eliminate the unnecessary content, and boil it down to the bare minimum necessary components that will dictate your final project. Your clean notebook should only include data that will be used in your project, followed by charts and maps that inform your research inquiry. Each data wrangling step and data visualization should be followed by a markdown cell that succinctly explains what you are visualizing and why it is interesting. What story does it tell? How do the visuals enrich, confirm, or contradict the descriptive statistics you calculated earlier? Begin to explain the "why" and not just the "how" of your narrative: Why does this data address your research question? You are welcome to submit multiple notebooks, as long as they are sequenced in a clear and logical manner. Feel free to add any additional material that advances your project.
+
+## Add a function
+
+In addition to the task of cleaning up the notebook(s), include one or more functions in your data workflow. Functions can dramatically cut down the amount of code needed in your project. For example, consider a situation where you may want to produce multiple maps that display crime for different neighborhoods. You could create multiple cells with the code to create these maps... or, you can create a function that takes in an argument for `neighborhood` that then generates the map:
+
+```python
+# function
+def crime_by_neighborhood(place):
+    # code to create the crime map
+
+# call the function
+crime_by_neighborhood(place='Downtown')
+
+````
 
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
 
