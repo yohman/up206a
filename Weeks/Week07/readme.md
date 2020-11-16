@@ -13,6 +13,7 @@
 |Alejandro & Mike	|  |
 
 ## Conversation Series for Week 8: Adam Millard-Ball
+![Adam](https://cdn.theconversation.com/avatars/1123988/width238/file-20200709-46-1wmq6nl.jpg)
 Make sure to read one (or more) of the following papers by Adam:
 - The PNAS street-network sprawl paper (https://www.pnas.org/content/117/4/1941) is the most elaborate and gets into OSM and street connectivity metrics
 - The parking paper (https://authors.elsevier.com/a/1bvYg,M0mRH3NY) is a nice example of dealing with GPS data
