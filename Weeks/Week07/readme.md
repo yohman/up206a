@@ -21,6 +21,11 @@ Make sure to read one (or more) of the following papers by Adam:
 ## Lightning Lecture
 * The anatomy of a function
 
+# Individual Assignment
+Choose and read one of the journal papers authored by Adam (listed above). Write a one paragraph reaction to the article, and come up with two questions for the author.
+
+Submit the assignment in your github class repository. There is no need to email the instructor, as long as the submission is up on your repo, and has a datestamp prior to midnight on Sunday.
+
 # Group Assignment #3: A "functional" notebook
 
 There are two components to this group assignment.
