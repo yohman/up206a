@@ -4,14 +4,13 @@
 |Karen & Natalie	|  |
 |Wendy & Sasha	|  |
 |Donna & Daniel	|  |
-|Anny	|  |
 |Robyn	|  |
 |Cynthia & Gerrlyn 	|  |
 |Rayne	|  |
 |Sami & Isabel	|  |
 |Alejandro & Mike	|  |
 
-Note that Dani and Andres will be presenting next week.
+Note that Anny, Dani and Andres will be presenting next week.
 
 ## Conversation Series for Week 8: Adam Millard-Ball
 ![Adam](https://cdn.theconversation.com/avatars/1123988/width238/file-20200709-46-1wmq6nl.jpg)
