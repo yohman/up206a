@@ -20,3 +20,5 @@ Make sure to read one (or more) of the following papers by Adam:
 
 Happy Thanksgiving Week!
 
+![Happy Thanksgiving!](images/happythanksgiving.png)
+
