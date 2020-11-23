@@ -13,7 +13,7 @@ Make sure to read one (or more) of the following papers by Adam:
 - The parking paper (https://authors.elsevier.com/a/1bvYg,M0mRH3NY) is a nice example of dealing with GPS data
 - The street width paper ([link-requires password](https://ucla.box.com/s/t6rah5b7pvkjp9vrqxzyafi7n15unswr)) is still a draft, and is simpler in terms of the data science angles but might be more accessible.
 
-## Lightning Lecture
+## Week 8 lab
 * Spatial Autocorrelation
 
 # Assignments
