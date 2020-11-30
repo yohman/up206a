@@ -9,7 +9,7 @@ Albert is UCLA's GIS Coordinator, working for the [Institute for Digital Researc
 ## Lab
 *   Spatial Analysis: Point Patterns
 
-### Group Assignment #4: Spatial Analysis
+## Group Assignment #4: Spatial Analysis
 
 This assignment will focus on some of the more advanced spatial analyses techniques learned in class. With one or more datasets you are exploring for your final project, do the following:
 
