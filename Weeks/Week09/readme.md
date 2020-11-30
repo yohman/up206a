@@ -22,6 +22,8 @@ and/or...
 
 - Conduct a thorough point pattern analysis of your dataset. Your notebook should include a KDE plot, as well as a centrography analysis, indicating central tendencies of your data (mean, median, ellipse). Include different "slices" of your data to produce meaningful results (e.g. kde plots for different categorical values).
 
+- optionally, you are welcome to explore other spatial analysis approaches not covered in class that you think would better address your research inquiry. Make sure to meet with me with a proposal for an alternative methodology.
+
 Complete your notebook with a markdown cell that succinctly explains the map's interpretation, what you are visualizing and why it is interesting: tell us its story. This story should be accompanied by any relevant descriptive statistics, as needed, to round out the picture.
 
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
