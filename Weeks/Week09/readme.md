@@ -6,6 +6,9 @@
 
 Albert is UCLA's GIS Coordinator, working for the [Institute for Digital Research and Education](https://idre.ucla.edu/people/albert-kochaphum). Notable projects that Albert has managed and developed include the [Million Dollar Hoods](https://milliondollarhoods.pre.ss.ucla.edu/) and [Hate Crime Map](https://www.hatecrimemap.com/). Albert is a strong advocate for social justice, open source technologies, and is an alumn from the UCLA Urban Planning Department. Oh, and he can pretty much code up anything he puts his mind into.
 
+- [Story Maps Tutorial](https://ucladataguides.readthedocs.io/en/latest/presenting_data/storymaps.html)
+- [ESRI's Story Map Guide](https://storymaps.arcgis.com/stories/429bc4eed5f145109e603c9711a33407)
+
 ## Lab
 *   Spatial Analysis: Point Patterns
 
