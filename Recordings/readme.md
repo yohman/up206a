@@ -9,6 +9,7 @@
 - [Week 5 (11/2)](https://ucla.zoom.us/rec/share/yw5-FH_3UvxGyQ1RV8eP4funkY4NpuJ_s8ztMTGDpeUaFNCHVHnOP05saAcnNE1e.pN5_6ScZVBLSe7-F)
 - [Week 6 (11/9)](https://ucla.zoom.us/rec/share/HQuVD9x_TbBAULOnv77sJ6gTjSkkY_edN87_32N6QYUjGQ2ZNlvO-Lv8j4peUtp1.KTt34Ly__4uWlWXN)
 - [Week 7 (11/16)](https://ucla.zoom.us/rec/share/gTQvU5FV6d_AJ2uIrfgEwfYvfEo2iNkTAZwR_HI_XHiE5xDZR2bfQrV_XViis0J0.XxfcKZF8vSUxeMiJ)
+  - The making of a function
 - [Week 8 (11/23)](https://ucla.zoom.us/rec/share/j6MjsYyns2AO-MHAdL79uV8t7zQr979TD9lCnq84oqkQMZws9pXSfstEeRr0bvgA.ttX8x4vBD6viii2S)
   - Recording 1: Adam Millard-Ball
   - Recording 2: Spatial Autocorrelation Lab
