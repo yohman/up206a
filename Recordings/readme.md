@@ -22,5 +22,6 @@
 - [Week 8 (11/23)](https://ucla.zoom.us/rec/share/j6MjsYyns2AO-MHAdL79uV8t7zQr979TD9lCnq84oqkQMZws9pXSfstEeRr0bvgA.ttX8x4vBD6viii2S)
   - Recording 1: Adam Millard-Ball
   - Recording 2: Spatial Autocorrelation Lab
-- [Week 9]()
-
+- [Week 9 (11/30)](https://ucla.zoom.us/rec/share/dQLjMPjNht3zATHvMOTy5FVAXv1_CdxZ9UOTzuW218u3q2bIpLt3IRoHYNafmaWd.8SA_dPqF5QilFpBZ)
+  - Recording 1: Albert Kochaphum
+  - Recording 2: Point Pattern Analysis
