@@ -25,3 +25,7 @@ Sample output:
 C:\Users\Yoh Kawano\Box Sync\htdocs>python3 -m http.server
 Serving HTTP on :: port 8000 (http://[::]:8000/) ...
 ```
+
+## Run your local server
+1. Open a browser window
+1. type `http://localhost:8000/` (replace `8000` with the port number that was assigned in your previous step)
