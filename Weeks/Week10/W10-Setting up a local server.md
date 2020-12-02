@@ -7,6 +7,8 @@
   ```shell
   >python -V
   ```
+If you do not have python, you will need to install it. If you are using Linux or macOS, it should be available on your system already. If you are a Windows user, you can get an installer from the [Python homepage](https://www.python.org/) and follow the instructions to install it.
+  
 ## Navigate to the directory you want to run your local server from
 ```shell
 >cd Desktop
