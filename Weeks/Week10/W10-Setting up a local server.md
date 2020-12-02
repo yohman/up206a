@@ -5,19 +5,19 @@
   - Windows 10: click the windows button, and type `command`
 ## Find out what version of Python you have installed
   ```shell
-  python -V
+  >python -V
   ```
 ## Navigate to the directory you want to run your local server from
 ```shell
-cd Desktop
+>cd Desktop
 ```
 ## 
 ```shell
 # If Python version returned above is 3.X
-python3 -m http.server
+>python3 -m http.server
 # On windows try "python" instead of "python3", or "py -3"
 # If Python version returned above is 2.X
-python -m SimpleHTTPServer
+>python -m SimpleHTTPServer
 ```
 
 Sample output:
