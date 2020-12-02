@@ -42,12 +42,12 @@ Serving HTTP on :: port 8000 (http://[::]:8000/) ...
 ```html
 <h1>Hello World</h1>
 <p>
-  My three favorite things:
-  <ol>
-    <li>sushi</li>
-    <li>ramen</li>
-    <li>maps</li>
-  </ol>
+    My three favorite things:
+    <ol>
+        <li>sushi</li>
+        <li>ramen</li>
+        <li>maps</li>
+    </ol>
 </p>
 ```
 1. Save the file and name it `hello.html` (no spaces). Make sure to save it in the same directory you launched your local server in.
