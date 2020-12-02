@@ -13,12 +13,16 @@ If you do not have python, you will need to install it. If you are using Linux o
 ```shell
 >cd Desktop
 ```
-## 
+## Launch the local server
+Depending on your python version, run one of the following commands:
+
+### If Python version returned above is 3.X
+
 ```shell
-# If Python version returned above is 3.X
 >python3 -m http.server
-# On windows try "python" instead of "python3", or "py -3"
-# If Python version returned above is 2.X
+```
+### If Python version is 2.X
+```shell
 >python -m SimpleHTTPServer
 ```
 
