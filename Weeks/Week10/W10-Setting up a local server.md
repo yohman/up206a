@@ -45,3 +45,6 @@ Serving HTTP on :: port 8000 (http://[::]:8000/) ...
     <li>maps</li>
   </ol>
 </p>
+```
+1. Save the file and name it `hello.html` (no spaces). Make sure to save it in the same directory you launched your local server in.
+1. Open a broswer window, and enter `http://localhost:8000/hello.html`
