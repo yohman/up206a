@@ -31,3 +31,17 @@ Serving HTTP on :: port 8000 (http://[::]:8000/) ...
 ## Run your local server
 1. Open a browser window
 1. type `http://localhost:8000/` (replace `8000` with the port number that was assigned in your previous step)
+
+## Create an html document
+1. Launch a text editor of your choice. The two I recommend are [Sublime Text](https://www.sublimetext.com/) and [Atom](https://atom.io/).
+1. Create some html content:
+```html
+<h1>Hello World</h1>
+<p>
+  My three favorite things:
+  <ol>
+    <li>sushi</li>
+    <li>ramen</li>
+    <li>maps</li>
+  </ol>
+</p>
