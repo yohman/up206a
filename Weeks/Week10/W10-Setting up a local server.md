@@ -4,15 +4,15 @@
   - MacOS: go to spotlight, and type `terminal`
   - Windows 10: click the windows button, and type `command`
 ## Find out what version of Python you have installed
-  ```python
+  ```shell
   python -V
   ```
 ## Navigate to the directory you want to run your local server from
-```python
+```shell
 cd Desktop
 ```
 ## 
-```python
+```shell
 # If Python version returned above is 3.X
 python3 -m http.server
 # On windows try "python" instead of "python3", or "py -3"
@@ -21,7 +21,7 @@ python -m SimpleHTTPServer
 ```
 
 Sample output:
-```python
+```shell
 C:\Users\Yoh Kawano\Box Sync\htdocs>python3 -m http.server
 Serving HTTP on :: port 8000 (http://[::]:8000/) ...
 ```
