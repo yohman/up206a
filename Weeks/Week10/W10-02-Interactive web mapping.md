@@ -30,3 +30,24 @@ Open your text editor of choice, and enter the following code:
 
 - Save the file as `map.html`
 - Launch a browser window, and type http://localhost:8000/map.html
+
+## Change the basemap
+
+Go [here](https://leaflet-extras.github.io/leaflet-providers/preview/) for a list of freely available basemaps.
+
+If you want high quality maps, you can use Mapbox tiles. You will need to create an account and obtain an [access token](https://account.mapbox.com/).
+
+In the map.html file, swap the basemap by replacing the code for `//osm basemap` with the following:
+
+```html
+L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox/streets-v11',
+    tileSize: 512,
+    zoomOffset: -1,
+    accessToken: 'your.mapbox.access.token'
+}).addTo(map);
+```
+
+For satellite imagery, replace the id value of `mapbox/streets-v11` to `mapbox/satellite-streets-v11`
