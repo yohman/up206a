@@ -34,7 +34,7 @@ Serving HTTP on :: port 8000 (http://[::]:8000/) ...
 
 ## Run your local server
 1. Open a browser window
-1. type `http://localhost:8000/` (replace `8000` with the port number that was assigned in your previous step)
+1. type http://localhost:8000/ (replace `8000` with the port number that was assigned in your previous step)
 
 ## Create an html document
 1. Launch a text editor of your choice. The two I recommend are [Sublime Text](https://www.sublimetext.com/) and [Atom](https://atom.io/).
@@ -51,4 +51,4 @@ Serving HTTP on :: port 8000 (http://[::]:8000/) ...
 </p>
 ```
 1. Save the file and name it `hello.html` (no spaces). Make sure to save it in the same directory you launched your local server in.
-1. Open a broswer window, and enter `http://localhost:8000/hello.html`
+1. Open a broswer window, and enter http://localhost:8000/hello.html
