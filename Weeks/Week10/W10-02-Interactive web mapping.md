@@ -39,7 +39,7 @@ For high quality maps, you can use Mapbox tiles. You will need to create an acco
 
 In the map.html file, swap the basemap by replacing the code for `//osm basemap` with the following:
 
-```html
+```javascript
 L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
     maxZoom: 18,
@@ -61,4 +61,4 @@ For satellite imagery, replace the id value of `mapbox/streets-v11` to `mapbox/s
 
 ## Add a geojson file
 
-Download the following geojson file, which was created as part of the Week 8 Spatial Autocorrelation lab.
+Download the following ![geojson file](arrests.js), which was created as part of the Week 8 Spatial Autocorrelation lab.
