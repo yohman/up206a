@@ -35,7 +35,7 @@ Open your text editor of choice, and enter the following code:
 
 Go [here](https://leaflet-extras.github.io/leaflet-providers/preview/) for a list of freely available basemaps.
 
-If you want high quality maps, you can use Mapbox tiles. You will need to create an account and obtain an [access token](https://account.mapbox.com/).
+For high quality maps, you can use Mapbox tiles. You will need to create an account and obtain an [access token](https://account.mapbox.com/).
 
 In the map.html file, swap the basemap by replacing the code for `//osm basemap` with the following:
 
@@ -50,4 +50,15 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 }).addTo(map);
 ```
 
-For satellite imagery, replace the id value of `mapbox/streets-v11` to `mapbox/satellite-streets-v11`
+For satellite imagery, replace the id value of `mapbox/streets-v11` to `mapbox/satellite-streets-v11`. Full list of styles at the time of this writing:
+
+- `light-v10`
+- `dark-v10`
+- `outdoors-v11`
+- `streets-v11`
+- `satellite-v11`
+- `satellite-streets-v11`
+
+## Add a geojson file
+
+Download the following geojson file, which was created as part of the Week 8 Spatial Autocorrelation lab.
