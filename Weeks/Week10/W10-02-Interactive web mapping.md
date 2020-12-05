@@ -1,6 +1,6 @@
 # Creating an interactive web map
 
-Make sure you have set up your local web server.
+Before you start your web mapping, make sure you have [set up your local web server](https://github.com/yohman/up206a/blob/master/Weeks/Week10/W10-01-Setting%20up%20a%20local%20server.md).
 
 ## Create a leaflet map
 Open your text editor of choice, and enter the following code:
