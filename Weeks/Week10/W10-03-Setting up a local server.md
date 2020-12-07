@@ -11,7 +11,7 @@ If you do not have python, you will need to install it. If you are using Linux o
   
 ## Navigate to the directory you want to run your local server from
 
-For example, you may want your local server directory to be named `htdocs` inside of your `Box` folder.
+For example, you may want your local server directory to be named `htdocs` inside of your `Box` folder. Note that you will have to create the `htdocs` folder first if it does not already exists.
 ```shell
 >cd Box/htdocs
 ```
