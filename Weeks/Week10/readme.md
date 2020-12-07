@@ -20,3 +20,5 @@ Our last conversations are with our very own T.A.'s, Bo and Chris.
 - Remote sensing
 
 # Final project guidelines review
+
+- [Final project guidelines](https://github.com/yohman/up206a/blob/master/Midterm%20and%20Finals/readme.md)
