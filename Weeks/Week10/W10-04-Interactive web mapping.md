@@ -103,3 +103,26 @@ Using these numbers, we will create our function. Put the following code inside 
 	}
 ```
 
+As in python, the function is dormant until called upon.
+
+Next we define a styling function for our GeoJSON layer so that its `fillColor` depends on `feature.properties.arrests_per_1000_lag` property, also adjusting the appearance a bit and adding a nice touch with dashed stroke.
+
+```javascript
+	// function to style each feature
+	function style(feature) {
+		return {
+			fillColor: getColor(feature.properties.arrests_per_1000_lag),
+			weight: 1.5,
+			opacity: 0.5,
+			color: 'white',
+			dashArray: '3',
+			fillOpacity: 0.7
+	    };
+	}
+
+	// add the geojson layer
+	L.geoJson(arrests, {style:style}).addTo(map).bringToFront();
+
+```
+
+For additional instructions and features to add to the map (such as popups and legends), look at [this leaflet tutorial](https://leafletjs.com/examples/choropleth/).
