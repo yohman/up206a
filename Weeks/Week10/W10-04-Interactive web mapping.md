@@ -14,7 +14,7 @@ Open your text editor of choice, and enter the following code:
 <!-- the map div -->
 <div id='map' style='width:800px;height:600px;'></div>
 
-<!-- javascript -->
+<!-- main javascript -->
 <script type="text/javascript">
 
 	// create the leaflet map
@@ -89,17 +89,17 @@ min         1.350659
 max        96.369143
 ```
 
-Using these numbers, we will create our function:
+Using these numbers, we will create our function. Put the following code inside the main javascript section (the location does not matter, as long as it is not interferring with other javascript code.
 
 ```javascript
 	// function to assign colors based on column value
 	function getColor(d) {
 		return  d > 96.369143	? '#d7191c' :
-				d > 12.192263	? '#fdae61' :
-				d > 7.947633	? '#ffffbf' :
-				d > 5.286927	? '#a6d96a' :
-				d > 1.350659	? '#1a9641' :
-								  '#FFEDA0'
+			d > 12.192263	? '#fdae61' :
+			d > 7.947633	? '#ffffbf' :
+			d > 5.286927	? '#a6d96a' :
+			d > 1.350659	? '#1a9641' :
+					  '#FFEDA0'
 	}
 ```
 
