@@ -61,9 +61,15 @@ For satellite imagery, replace the id value of `mapbox/streets-v11` to `mapbox/s
 
 ## Add a geojson file
 
-Download the following ![geojson file](arrests.js), which was created as part of the Week 8 Spatial Autocorrelation lab. Following the data wrangling and spatial autocorrelation analysis, this geojson was created with the following python code:
+Download the following [geojson file](arrests.js), which was created as part of the Week 8 Spatial Autocorrelation lab. Following the data wrangling and spatial autocorrelation analysis, this geojson was created with the following python code:
 
 `your_gdf.to_file("your_gdf.geojson", driver='GeoJSON')`
 
-The exported geojson file has then been modified into a javascript file `.js` by adding `var arrests = [` to the beginning, and a closing `]` at the end. This allows the file to be read natively as a javascript file.
+The exported geojson file has then been modified into a javascript file `arrests.js` by adding `var arrests = [` to the beginning, and a closing `]` at the end. This allows the file to be read natively as a javascript file.
 
+Once you have downloaded the `arrests.js` file into **the same directory** as your `map.html` file, let's add the file to our web map. First, import the file using the following command. Place this code *after* the leaflet js import, and *before* the map div declaration.
+
+```html
+<!-- arrest data -->
+<script type="text/javascript" src="arrests.js"></script>
+```
