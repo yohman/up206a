@@ -54,3 +54,7 @@ Serving HTTP on :: port 8000 (http://[::]:8000/) ...
 ```
 1. Save the file and name it `hello.html` (no spaces). Make sure to save it in the same directory you launched your local server in.
 1. Open a broswer window, and enter http://localhost:8000/hello.html
+
+## Success!
+
+You have now setup your local web server. Let's now [create some interactive web maps](https://github.com/yohman/up206a/blob/master/Weeks/Week10/W10-04-Interactive%20web%20mapping.md).
