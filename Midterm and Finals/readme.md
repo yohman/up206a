@@ -31,7 +31,7 @@ This is an extension of your mid-term project. To review:
 1. Develop an urban research question that interests your group.
 1. Collect data from two or more different sources, including but not limited to: census bureau, local data portals, FTP servers, or directly from an organization.
 1. Clean, organize, merge, and process the data using pandas/geopandas into a nice analyzable format.
-1. Conduct a statistical analysis. This shall include, at a minimum, a set of descriptive statistics, some exploratory analysis. Optionally, include a model, such as a multiple regression model.
+1. Conduct a statistical analysis. This shall include, at a minimum, a set of descriptive statistics, some exploratory analysis. Optionally, include spatial autocorrelation analysis, point analysis, or a model, such as a multiple regression model.
 1. Create 3 or more static data visualizations, such as scatter plots, bar charts, line graphs, etc.
 1. Create 3 or more maps, including at least 1 choropleth map and 1 point map.
 
