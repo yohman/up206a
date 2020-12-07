@@ -63,7 +63,9 @@ For satellite imagery, replace the id value of `mapbox/streets-v11` to `mapbox/s
 
 Download the following [geojson file](arrests.js), which was created as part of the Week 8 Spatial Autocorrelation lab. Following the data wrangling and spatial autocorrelation analysis, this geojson was created with the following python code:
 
-`your_gdf.to_file("your_gdf.geojson", driver='GeoJSON')`
+```pytyon
+your_gdf.to_file("your_gdf.geojson", driver='GeoJSON')
+```
 
 The exported geojson file has then been modified into a javascript file `arrests.js` by adding `var arrests = [` to the beginning, and a closing `]` at the end. This allows the file to be read natively as a javascript file.
 
@@ -73,3 +75,31 @@ Once you have downloaded the `arrests.js` file into **the same directory** as yo
 <!-- arrest data -->
 <script type="text/javascript" src="arrests.js"></script>
 ```
+
+Before we add the layer to the map, we need to provide it with the logic on how to color each census block group polygon. We will do so using the per capita spatial lag column `arrests_per_1000_lag`, which provides the following statistical output:
+
+```
+count    2331.000000
+mean       10.360310
+std         9.424436
+min         1.350659
+25%         5.286927
+50%         7.947633
+75%        12.192263
+max        96.369143
+```
+
+Using these numbers, we will create our function:
+
+```javascript
+	// function to assign colors based on column value
+	function getColor(d) {
+		return  d > 96.369143	? '#d7191c' :
+				d > 12.192263	? '#fdae61' :
+				d > 7.947633	? '#ffffbf' :
+				d > 5.286927	? '#a6d96a' :
+				d > 1.350659	? '#1a9641' :
+								  '#FFEDA0'
+	}
+```
+
